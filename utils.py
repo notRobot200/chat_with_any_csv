@@ -3,6 +3,7 @@ from langchain_experimental.agents import create_csv_agent
 from langchain_groq import ChatGroq
 from config import LLM_MODEL
 import os
+import streamlit as st
 
 groq_api_key = st.secrets["GROQ_API_KEY"]
 groq_api_key = os.environ.get("GROQ_API_KEY")
