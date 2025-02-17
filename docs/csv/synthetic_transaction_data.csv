@@ -1,0 +1,1001 @@
+ID_Transaksi,ID_Pengguna,ID_Produk,Waktu_Transaksi,Jumlah_Transaksi,Metode_Pembayaran,Alamat_Pengiriman,Kategori_Produk,Penilaian_Produk,Total_Harga
+T00001,U2824,P125,2024-10-21,5,Kartu Debit,"Jalan Merdeka No. 181, Bandung, Bali 33890",Peralatan Rumah,2,4548955
+T00002,U9935,P189,2024-09-20,10,Cash on Delivery (COD),"Gg. Kutai No. 02, Makassar, Kepulauan Riau 35116",Kesehatan,1,8359720
+T00003,U4582,P338,2024-03-24,9,E-Wallet,"Jalan Erlangga No. 1, Bau-Bau, LA 93103",Makanan,2,41591700
+T00004,U7873,P325,2024-12-12,8,Virtual Account,"Jl. Sukabumi No. 75, Medan, NT 41928",Kesehatan,2,28761168
+T00005,U6574,P384,2024-11-25,3,Kartu Debit,"Gang Pasteur No. 8, Tangerang Selatan, Maluku Utara 30564",Elektronik,1,2484024
+T00006,U7224,P199,2024-03-12,6,QRIS,"Gg. Suniaraja No. 7, Kota Administrasi Jakarta Selatan, Jawa Barat 88496",Makanan,3,2486928
+T00007,U8527,P649,2025-01-29,2,Cash on Delivery (COD),"Jl. Monginsidi No. 10, Bukittinggi, JI 91669",Kesehatan,5,5018714
+T00008,U6925,P691,2024-08-15,4,Transfer Bank,"Gg. H.J Maemunah No. 14, Cilegon, SG 48281",Kesehatan,2,9910248
+T00009,U2307,P975,2025-01-19,4,Transfer Bank,"Gg. Jamika No. 8, Serang, MU 01543",Fashion,3,15413924
+T00010,U6977,P266,2024-03-09,6,QRIS,"Gg. Cikutra Timur No. 2, Surabaya, Sulawesi Utara 48963",Peralatan Rumah,3,3893802
+T00011,U3803,P646,2025-02-10,4,Kartu Kredit,"Gang Cempaka No. 7, Kota Administrasi Jakarta Barat, Kalimantan Timur 50983",Fashion,4,9257944
+T00012,U4598,P801,2024-10-01,6,E-Wallet,"Jl. Moch. Ramdan No. 051, Kota Administrasi Jakarta Utara, Sumatera Barat 82997",Peralatan Rumah,1,16177266
+T00013,U7572,P374,2024-05-20,2,Kartu Debit,"Jl. Dipenogoro No. 6, Pagaralam, SR 01065",Makanan,3,3667280
+T00014,U9179,P505,2024-12-22,8,Kartu Kredit,"Jl. Jayawijaya No. 26, Kota Administrasi Jakarta Utara, Sulawesi Tenggara 17810",Elektronik,2,16950888
+T00015,U9830,P369,2024-10-26,10,Cash on Delivery (COD),"Jl. Tubagus Ismail No. 73, Banjarmasin, Jawa Timur 06474",Makanan,4,30866460
+T00016,U4593,P241,2024-07-29,9,Kredivo,"Gg. Lembong No. 980, Banjarmasin, BE 88208",Kesehatan,1,8728227
+T00017,U3504,P742,2024-03-18,3,Cash on Delivery (COD),"Jl. Surapati No. 939, Solok, DKI Jakarta 99854",Makanan,1,9832986
+T00018,U7252,P710,2024-05-05,8,Dana,"Gang Gegerkalong Hilir No. 4, Lubuklinggau, YO 79911",Elektronik,5,1170472
+T00019,U2876,P798,2024-09-11,9,Virtual Account,"Gg. Cikutra Timur No. 542, Probolinggo, Maluku 84124",Elektronik,1,22608513
+T00020,U8123,P261,2024-03-31,8,E-Wallet,"Gang Rungkut Industri No. 534, Kota Administrasi Jakarta Pusat, Bengkulu 64005",Elektronik,5,12389120
+T00021,U9317,P208,2024-12-11,5,Dana,"Gg. M.H Thamrin No. 6, Binjai, DI Yogyakarta 80598",Makanan,2,6660540
+T00022,U7126,P880,2024-04-13,3,Dana,"Gg. Siliwangi No. 533, Manado, SR 32260",Makanan,1,8307654
+T00023,U9005,P119,2024-04-25,2,QRIS,"Gg. Jamika No. 1, Bandung, SU 37543",Elektronik,2,1071822
+T00024,U4946,P999,2024-05-12,10,Transfer Bank,"Gang Pelajar Pejuang No. 458, Tangerang, Nusa Tenggara Barat 14294",Kesehatan,4,6305960
+T00025,U9727,P884,2024-03-01,3,Kartu Kredit,"Gang Bangka Raya No. 8, Meulaboh, Kalimantan Selatan 06088",Fashion,5,4305555
+T00026,U5342,P640,2024-11-08,10,Cash on Delivery (COD),"Jalan Otto Iskandardinata No. 95, Tebingtinggi, Maluku 65648",Peralatan Rumah,5,17373770
+T00027,U6107,P508,2024-04-05,6,Kredivo,"Jalan Kendalsari No. 4, Purwokerto, Aceh 43699",Makanan,4,6390336
+T00028,U5061,P330,2024-10-27,2,QRIS,"Gang Tebet Barat Dalam No. 872, Kotamobagu, SS 13433",Kesehatan,5,9393260
+T00029,U4770,P702,2024-04-13,4,E-Wallet,"Gg. Kendalsari No. 769, Tasikmalaya, Papua Barat 63201",Kesehatan,1,7882008
+T00030,U2104,P132,2024-12-14,6,Transfer Bank,"Gg. Cikapayang No. 3, Palu, JB 88957",Makanan,2,14316216
+T00031,U8953,P319,2024-10-10,9,Kartu Kredit,"Gg. Cihampelas No. 34, Sorong, KU 71434",Makanan,5,36135459
+T00032,U4981,P903,2024-06-25,8,Cash on Delivery (COD),"Jl. Moch. Ramdan No. 23, Padangpanjang, SR 87603",Peralatan Rumah,1,6904912
+T00033,U8062,P462,2025-01-04,7,Cash on Delivery (COD),"Gg. Ronggowarsito No. 546, Prabumulih, KI 34670",Fashion,1,6129116
+T00034,U1993,P512,2024-07-16,6,Transfer Bank,"Gg. Gegerkalong Hilir No. 8, Mojokerto, BA 62720",Peralatan Rumah,2,9873522
+T00035,U9786,P559,2024-05-27,3,Cash on Delivery (COD),"Gg. Raya Ujungberung No. 64, Kota Administrasi Jakarta Pusat, JK 08053",Peralatan Rumah,3,11792415
+T00036,U5092,P995,2024-10-25,2,Kredivo,"Jl. Kiaracondong No. 923, Parepare, Jambi 74529",Makanan,1,948730
+T00037,U9856,P956,2024-10-08,1,Transfer Bank,"Jalan Indragiri No. 496, Tasikmalaya, Kalimantan Selatan 93149",Peralatan Rumah,2,3459248
+T00038,U8956,P592,2024-12-24,4,Cash on Delivery (COD),"Gang Kapten Muslihat No. 18, Balikpapan, Sulawesi Barat 16572",Kesehatan,2,12916224
+T00039,U1035,P499,2024-08-03,5,Kredivo,"Gang Bangka Raya No. 9, Madiun, Kalimantan Utara 47379",Elektronik,4,23560610
+T00040,U8973,P258,2024-10-10,4,Virtual Account,"Gg. Raya Ujungberung No. 735, Makassar, KR 80831",Peralatan Rumah,1,19634064
+T00041,U9883,P162,2024-05-19,6,E-Wallet,"Gg. H.J Maemunah No. 7, Banda Aceh, JK 36349",Kesehatan,5,24297546
+T00042,U9238,P973,2024-07-08,9,Kartu Kredit,"Gang Setiabudhi No. 7, Lhokseumawe, BB 13518",Kesehatan,5,6498207
+T00043,U4044,P170,2024-12-08,10,Transfer Bank,"Gg. Pelajar Pejuang No. 9, Bengkulu, Kalimantan Selatan 35240",Peralatan Rumah,4,10556810
+T00044,U5033,P692,2024-11-16,10,E-Wallet,"Jl. M.H Thamrin No. 27, Balikpapan, Lampung 77520",Makanan,1,35667130
+T00045,U9565,P423,2024-05-24,5,Kartu Debit,"Gg. Rajiman No. 902, Salatiga, MA 31869",Elektronik,2,11390680
+T00046,U7484,P234,2024-10-04,5,Kredivo,"Gang Rajawali Barat No. 6, Salatiga, Bengkulu 33412",Elektronik,1,640715
+T00047,U8508,P736,2024-05-19,10,Transfer Bank,"Jl. Tubagus Ismail No. 97, Bandung, Kalimantan Timur 47134",Kesehatan,5,18380670
+T00048,U9288,P371,2024-12-17,3,QRIS,"Jl. H.J Maemunah No. 421, Cimahi, Maluku 71746",Kesehatan,2,9449451
+T00049,U5669,P261,2024-05-31,8,Dana,"Jl. Bangka Raya No. 5, Bandar Lampung, JK 99049",Elektronik,5,12389120
+T00050,U9666,P108,2024-03-02,9,Virtual Account,"Gang K.H. Wahid Hasyim No. 6, Bekasi, Sulawesi Utara 65512",Kesehatan,2,20416500
+T00051,U2891,P209,2024-06-23,9,Kartu Kredit,"Gang M.H Thamrin No. 715, Madiun, JA 80876",Elektronik,3,16352001
+T00052,U6617,P308,2024-03-08,5,Dana,"Gang Cikapayang No. 482, Palembang, Sumatera Barat 09324",Fashion,3,2380660
+T00053,U2512,P749,2024-09-16,7,Virtual Account,"Jl. Gardujati No. 12, Tasikmalaya, Lampung 67737",Kesehatan,1,19936525
+T00054,U3143,P752,2024-09-17,5,Kartu Kredit,"Jl. Cikutra Timur No. 65, Ambon, Lampung 99727",Fashion,5,18188485
+T00055,U1158,P214,2024-09-12,2,Kartu Kredit,"Gang Erlangga No. 33, Kediri, SR 57662",Makanan,1,6294416
+T00056,U3426,P540,2024-08-26,3,E-Wallet,"Jalan Cempaka No. 870, Padang Sidempuan, Jawa Tengah 74596",Elektronik,3,1153986
+T00057,U6862,P315,2024-10-25,4,Transfer Bank,"Gang Medokan Ayu No. 7, Solok, DI Yogyakarta 43161",Elektronik,5,13835760
+T00058,U3532,P342,2024-12-07,3,Kartu Kredit,"Gg. Astana Anyar No. 504, Medan, Sulawesi Selatan 38692",Fashion,1,4663758
+T00059,U6442,P901,2024-04-22,7,Kartu Debit,"Jalan Yos Sudarso No. 2, Pangkalpinang, Kepulauan Bangka Belitung 40748",Elektronik,2,6697397
+T00060,U7267,P993,2024-04-17,1,Kredivo,"Gang KH Amin Jasuta No. 47, Dumai, Papua Barat 13695",Peralatan Rumah,2,3911303
+T00061,U6728,P412,2024-09-26,4,Kartu Debit,"Gg. Pelajar Pejuang No. 909, Kotamobagu, KI 33942",Kesehatan,2,13570296
+T00062,U6378,P385,2024-10-16,2,Virtual Account,"Gang BKR No. 5, Bekasi, Lampung 62328",Elektronik,5,6805490
+T00063,U9785,P439,2025-01-21,1,Transfer Bank,"Gg. Ronggowarsito No. 51, Batu, JT 68516",Elektronik,2,4920339
+T00064,U5349,P139,2024-02-21,2,Cash on Delivery (COD),"Gang Tebet Barat Dalam No. 4, Subulussalam, PA 37098",Elektronik,3,7421474
+T00065,U9379,P218,2024-06-22,7,Kartu Debit,"Gang Suryakencana No. 12, Bandung, Maluku 11382",Elektronik,1,25955405
+T00066,U1027,P632,2024-07-15,9,Kartu Debit,"Jalan Veteran No. 1, Singkawang, SR 05377",Elektronik,4,5732838
+T00067,U6409,P738,2024-05-17,6,Transfer Bank,"Gang Cikutra Barat No. 43, Palu, JK 90053",Elektronik,5,15866802
+T00068,U7691,P434,2024-04-04,7,Virtual Account,"Jl. Moch. Ramdan No. 29, Kota Administrasi Jakarta Utara, Jawa Tengah 84210",Makanan,2,11614897
+T00069,U7888,P780,2024-04-07,7,Kartu Kredit,"Gg. Asia Afrika No. 402, Pontianak, Jambi 77589",Makanan,5,18021850
+T00070,U7653,P661,2024-03-29,1,Virtual Account,"Gg. Erlangga No. 0, Pariaman, RI 17711",Elektronik,2,3656163
+T00071,U6279,P576,2024-06-20,8,Kredivo,"Gg. Wonoayu No. 9, Metro, Sumatera Utara 78961",Peralatan Rumah,5,32154984
+T00072,U3780,P774,2024-12-20,2,Virtual Account,"Gang Moch. Ramdan No. 57, Padangpanjang, Gorontalo 65452",Makanan,5,5723524
+T00073,U2530,P938,2024-11-08,4,Virtual Account,"Jl. Dipatiukur No. 15, Sabang, BE 16560",Peralatan Rumah,2,5144376
+T00074,U1400,P147,2024-06-06,4,Kredivo,"Jl. Jakarta No. 7, Bima, NT 14936",Makanan,1,15481228
+T00075,U7790,P744,2025-01-09,10,Kartu Debit,"Jl. Pasteur No. 4, Malang, Aceh 29612",Fashion,4,34025310
+T00076,U4997,P251,2024-11-29,1,Transfer Bank,"Gg. Veteran No. 52, Lhokseumawe, Maluku Utara 02290",Fashion,2,1525444
+T00077,U9486,P575,2024-11-03,1,Dana,"Gang Rajiman No. 7, Kota Administrasi Jakarta Timur, Kalimantan Tengah 56149",Peralatan Rumah,1,3879079
+T00078,U3184,P920,2024-08-22,8,Dana,"Gg. Kutisari Selatan No. 034, Yogyakarta, JB 45107",Makanan,5,21693504
+T00079,U8251,P727,2024-12-02,9,Cash on Delivery (COD),"Gg. Jayawijaya No. 3, Batu, RI 60715",Makanan,4,12466017
+T00080,U8777,P560,2024-09-26,5,Kartu Debit,"Gang Gardujati No. 05, Solok, SG 16136",Elektronik,5,20575470
+T00081,U4919,P381,2024-10-01,8,Transfer Bank,"Gang Sadang Serang No. 521, Pontianak, SS 55231",Elektronik,2,18634488
+T00082,U6502,P427,2024-04-12,9,Transfer Bank,"Jl. Suryakencana No. 277, Tangerang Selatan, MU 27177",Peralatan Rumah,2,17909649
+T00083,U7275,P810,2024-10-18,3,Kartu Debit,"Gg. S. Parman No. 477, Banjarmasin, PA 11998",Kesehatan,4,10407573
+T00084,U6421,P655,2024-07-14,8,Cash on Delivery (COD),"Jalan Raya Ujungberung No. 7, Banjarmasin, ST 51820",Kesehatan,2,28595352
+T00085,U7381,P888,2024-05-22,10,E-Wallet,"Gg. Soekarno Hatta No. 66, Tangerang, BE 15186",Makanan,4,40511960
+T00086,U1096,P460,2024-06-05,5,Cash on Delivery (COD),"Jalan Indragiri No. 2, Lhokseumawe, RI 91486",Fashion,5,23156445
+T00087,U4613,P599,2024-10-22,4,Virtual Account,"Gg. Monginsidi No. 05, Denpasar, KT 73322",Fashion,4,1173908
+T00088,U7371,P444,2024-03-16,7,Kartu Kredit,"Gg. Wonoayu No. 962, Denpasar, JI 06537",Fashion,2,31713871
+T00089,U1441,P503,2024-10-10,10,E-Wallet,"Jl. Rajawali Timur No. 35, Pangkalpinang, LA 88623",Kesehatan,4,11883290
+T00090,U8564,P286,2024-12-23,1,Virtual Account,"Gg. Soekarno Hatta No. 1, Kotamobagu, DKI Jakarta 47826",Fashion,3,1825535
+T00091,U8449,P434,2024-03-22,6,Cash on Delivery (COD),"Jalan Veteran No. 685, Meulaboh, DKI Jakarta 30515",Elektronik,4,9955626
+T00092,U5133,P954,2024-12-19,2,Kredivo,"Gg. Waringin No. 2, Palopo, Aceh 04328",Kesehatan,5,973850
+T00093,U6733,P329,2025-02-15,2,E-Wallet,"Jalan Rajawali Barat No. 036, Batam, JA 98089",Kesehatan,2,3444716
+T00094,U1333,P736,2024-05-19,3,Kartu Debit,"Jalan Kendalsari No. 39, Denpasar, DKI Jakarta 18888",Peralatan Rumah,4,5514201
+T00095,U2874,P677,2024-09-18,4,Kredivo,"Jalan KH Amin Jasuta No. 54, Manado, DI Yogyakarta 31952",Elektronik,3,5830068
+T00096,U2876,P896,2024-03-04,3,Virtual Account,"Gg. Cikutra Timur No. 542, Probolinggo, Maluku 84124",Kesehatan,5,796218
+T00097,U6111,P689,2024-07-01,7,Cash on Delivery (COD),"Gang Medokan Ayu No. 217, Kupang, KS 30548",Peralatan Rumah,1,14610176
+T00098,U2669,P813,2024-07-19,5,Transfer Bank,"Jl. Peta No. 05, Bitung, PA 67652",Makanan,1,14812780
+T00099,U9728,P538,2024-08-26,6,Transfer Bank,"Jalan W.R. Supratman No. 692, Madiun, GO 54479",Makanan,3,936798
+T00100,U7882,P942,2024-11-20,8,Transfer Bank,"Gang Cihampelas No. 596, Subulussalam, BE 65820",Fashion,3,31252584
+T00101,U3506,P545,2024-04-11,3,Dana,"Jl. Moch. Toha No. 5, Meulaboh, BT 75571",Elektronik,5,13693563
+T00102,U8921,P576,2024-09-25,7,Virtual Account,"Gang Suryakencana No. 31, Ternate, Kalimantan Barat 86814",Elektronik,2,28135611
+T00103,U2419,P385,2024-12-12,8,Kartu Debit,"Gg. Rajiman No. 121, Cirebon, ST 55188",Fashion,5,27221960
+T00104,U7209,P444,2024-06-07,1,Kredivo,"Gg. Monginsidi No. 132, Payakumbuh, BA 89578",Elektronik,2,4530553
+T00105,U8988,P317,2024-04-06,6,Virtual Account,"Gang Ronggowarsito No. 6, Samarinda, DI Yogyakarta 51778",Elektronik,3,14205048
+T00106,U1166,P629,2024-06-28,4,Transfer Bank,"Gg. S. Parman No. 182, Cimahi, Jawa Timur 35841",Peralatan Rumah,4,16593952
+T00107,U4937,P807,2024-05-23,8,Kredivo,"Gg. Kendalsari No. 1, Semarang, Jawa Tengah 99590",Fashion,1,6644704
+T00108,U5820,P326,2025-01-01,7,Kartu Debit,"Gg. Suryakencana No. 969, Payakumbuh, Lampung 73647",Elektronik,5,22018969
+T00109,U8753,P666,2024-03-15,9,QRIS,"Gang Ronggowarsito No. 35, Lubuklinggau, Maluku Utara 62588",Fashion,5,25423902
+T00110,U6764,P819,2024-03-28,8,Virtual Account,"Jalan Pasteur No. 32, Banjarbaru, LA 96325",Elektronik,3,15871144
+T00111,U2976,P838,2025-02-12,4,QRIS,"Gg. Monginsidi No. 74, Banda Aceh, JK 87339",Kesehatan,5,6412596
+T00112,U4138,P321,2024-07-02,8,Virtual Account,"Gang Kutisari Selatan No. 7, Prabumulih, Aceh 62456",Makanan,5,19391720
+T00113,U2647,P952,2024-07-07,4,Virtual Account,"Jl. Siliwangi No. 4, Meulaboh, Sumatera Selatan 84991",Peralatan Rumah,3,6221056
+T00114,U5952,P114,2024-04-05,9,Kartu Kredit,"Gang Stasiun Wonokromo No. 23, Pekalongan, Banten 02578",Elektronik,1,4566573
+T00115,U5786,P814,2024-08-11,3,Kredivo,"Gang Jamika No. 94, Pekalongan, Sumatera Selatan 94705",Kesehatan,1,14596797
+T00116,U5658,P580,2024-06-23,8,Kredivo,"Jalan Kutisari Selatan No. 49, Tebingtinggi, Bengkulu 28962",Elektronik,2,3847832
+T00117,U5136,P982,2024-12-31,8,Transfer Bank,"Jl. Asia Afrika No. 56, Padang Sidempuan, Kalimantan Tengah 89702",Kesehatan,4,33400552
+T00118,U2213,P690,2024-09-04,1,Kartu Kredit,"Gang Raya Setiabudhi No. 785, Tangerang, Kepulauan Bangka Belitung 33484",Peralatan Rumah,5,2598757
+T00119,U2395,P354,2024-05-13,2,Dana,"Gg. Raya Setiabudhi No. 58, Kotamobagu, JA 65240",Fashion,5,3886400
+T00120,U9561,P489,2024-06-06,8,Kredivo,"Gang Ronggowarsito No. 384, Bogor, Gorontalo 30833",Elektronik,5,29178280
+T00121,U6003,P682,2024-03-07,10,E-Wallet,"Gang Dipenogoro No. 2, Purwokerto, Jawa Timur 77345",Makanan,1,17930510
+T00122,U4457,P370,2024-06-05,2,Kartu Kredit,"Jl. Jend. Sudirman No. 20, Payakumbuh, Kalimantan Barat 00499",Peralatan Rumah,2,9360892
+T00123,U2229,P260,2024-03-28,1,Cash on Delivery (COD),"Gang HOS. Cokroaminoto No. 7, Depok, JA 27420",Fashion,5,3991911
+T00124,U5771,P133,2024-11-28,4,Virtual Account,"Jl. Kendalsari No. 6, Pekanbaru, MU 61227",Elektronik,4,2588396
+T00125,U4824,P370,2024-06-20,10,Kartu Debit,"Gang Moch. Toha No. 45, Sawahlunto, Aceh 53017",Fashion,1,46804460
+T00126,U9922,P330,2024-06-14,3,Virtual Account,"Jalan KH Amin Jasuta No. 59, Jayapura, Jawa Barat 27956",Peralatan Rumah,1,14089890
+T00127,U1977,P269,2024-11-14,5,Virtual Account,"Jl. Ahmad Dahlan No. 85, Salatiga, JA 88398",Fashion,1,19908615
+T00128,U5982,P816,2024-04-14,7,Virtual Account,"Jalan Laswi No. 9, Bekasi, Sumatera Selatan 07286",Makanan,5,29345778
+T00129,U8172,P182,2024-08-11,10,E-Wallet,"Jalan Suniaraja No. 03, Banjar, Sulawesi Selatan 18017",Fashion,3,21502380
+T00130,U1423,P193,2024-02-28,4,E-Wallet,"Jl. H.J Maemunah No. 6, Metro, ST 61825",Elektronik,5,1549948
+T00131,U3870,P581,2024-04-02,9,Kredivo,"Jl. Abdul Muis No. 478, Prabumulih, Papua Barat 37524",Elektronik,2,44640900
+T00132,U8141,P750,2024-04-29,8,Transfer Bank,"Jalan Moch. Toha No. 119, Palopo, Bengkulu 06738",Fashion,3,27803776
+T00133,U6460,P428,2024-05-10,2,Kartu Kredit,"Jalan Joyoboyo No. 99, Kendari, Maluku 83644",Elektronik,4,8412590
+T00134,U5722,P778,2024-03-10,7,Dana,"Jalan Sentot Alibasa No. 6, Tanjungpinang, Sulawesi Barat 24628",Kesehatan,4,5520893
+T00135,U6153,P358,2024-08-17,6,Transfer Bank,"Jalan Rawamangun No. 866, Meulaboh, Kalimantan Utara 35175",Fashion,5,357930
+T00136,U9889,P573,2024-03-22,7,E-Wallet,"Gang Tebet Barat Dalam No. 9, Batu, Kalimantan Selatan 73540",Peralatan Rumah,5,21593775
+T00137,U9167,P740,2024-05-08,8,E-Wallet,"Jalan Rungkut Industri No. 3, Kendari, Maluku Utara 67854",Peralatan Rumah,3,37257504
+T00138,U3146,P394,2024-05-27,8,Kredivo,"Jalan Waringin No. 35, Padang Sidempuan, BT 20489",Kesehatan,1,16458976
+T00139,U3594,P418,2024-09-27,9,E-Wallet,"Jl. Rumah Sakit No. 693, Purwokerto, NB 77725",Makanan,4,7487055
+T00140,U4681,P961,2024-04-21,2,Kredivo,"Jl. Ahmad Dahlan No. 100, Bogor, Kalimantan Timur 20387",Kesehatan,2,8461352
+T00141,U5781,P621,2024-07-09,5,Cash on Delivery (COD),"Jalan Abdul Muis No. 8, Balikpapan, Bali 84086",Fashion,4,10472815
+T00142,U8483,P664,2024-12-25,3,Cash on Delivery (COD),"Jl. Moch. Toha No. 984, Kota Administrasi Jakarta Timur, Riau 56793",Peralatan Rumah,5,12940299
+T00143,U3236,P984,2024-11-12,2,Virtual Account,"Jl. Dipatiukur No. 66, Banjarmasin, Aceh 17659",Fashion,3,8618424
+T00144,U5377,P940,2025-01-14,1,Virtual Account,"Jl. Ahmad Yani No. 40, Tangerang Selatan, Kepulauan Riau 25039",Elektronik,5,4914749
+T00145,U9022,P986,2024-04-11,3,Kredivo,"Jalan Ahmad Yani No. 968, Meulaboh, JB 85016",Makanan,4,8835327
+T00146,U6446,P665,2024-05-16,9,Cash on Delivery (COD),"Gang Astana Anyar No. 4, Pasuruan, Kalimantan Timur 86629",Fashion,3,14692770
+T00147,U4912,P685,2024-10-29,7,Kartu Debit,"Jalan Ciumbuleuit No. 426, Ternate, PB 51104",Fashion,1,19033392
+T00148,U8749,P822,2024-08-06,7,Cash on Delivery (COD),"Jl. Dipatiukur No. 678, Bima, BA 58199",Peralatan Rumah,4,2523801
+T00149,U3068,P614,2024-12-16,10,QRIS,"Gg. Tubagus Ismail No. 18, Samarinda, SU 62244",Kesehatan,4,8864420
+T00150,U9617,P567,2024-05-30,1,Kartu Kredit,"Jl. Bangka Raya No. 64, Batu, PA 37993",Fashion,2,677704
+T00151,U8692,P900,2024-08-11,5,QRIS,"Jalan Suniaraja No. 96, Palembang, Nusa Tenggara Barat 92459",Makanan,4,3618665
+T00152,U6383,P972,2024-11-12,9,Cash on Delivery (COD),"Jalan Suniaraja No. 47, Madiun, Papua Barat 65193",Elektronik,4,41295339
+T00153,U1588,P732,2024-10-02,2,Kartu Debit,"Jalan Cempaka No. 16, Bogor, Maluku 42661",Elektronik,2,1616312
+T00154,U8110,P200,2024-08-08,2,Kredivo,"Jalan Siliwangi No. 8, Bima, KU 29096",Peralatan Rumah,3,585654
+T00155,U1753,P432,2024-12-04,1,Virtual Account,"Jl. Dipenogoro No. 38, Palopo, PA 79825",Elektronik,3,3662862
+T00156,U3385,P350,2024-02-25,9,Cash on Delivery (COD),"Gang Ciwastra No. 254, Palu, KT 57177",Makanan,2,13283334
+T00157,U3868,P180,2024-06-18,10,Cash on Delivery (COD),"Jl. Asia Afrika No. 12, Pematangsiantar, Kalimantan Barat 58673",Makanan,2,42247350
+T00158,U3344,P337,2024-12-21,8,Virtual Account,"Gg. Suniaraja No. 937, Meulaboh, AC 34191",Fashion,3,1030648
+T00159,U8622,P394,2024-12-22,9,Kartu Kredit,"Jalan Erlangga No. 478, Serang, Papua Barat 91557",Kesehatan,4,18516348
+T00160,U6661,P701,2024-10-12,5,Cash on Delivery (COD),"Jl. Raya Setiabudhi No. 341, Medan, Jawa Tengah 69296",Elektronik,4,12921900
+T00161,U4263,P493,2024-07-29,8,Transfer Bank,"Jl. Rajiman No. 22, Palopo, Bengkulu 07236",Peralatan Rumah,4,38781080
+T00162,U6881,P688,2024-09-21,5,Virtual Account,"Gang Cempaka No. 21, Tual, KI 04384",Kesehatan,4,11762540
+T00163,U1132,P679,2024-04-21,1,Kredivo,"Jl. Pasteur No. 5, Tual, ST 61340",Elektronik,2,3005482
+T00164,U4588,P751,2024-08-08,4,Virtual Account,"Gg. Gedebage Selatan No. 395, Cimahi, JB 30958",Peralatan Rumah,1,1522800
+T00165,U6061,P907,2024-06-04,8,E-Wallet,"Gang Joyoboyo No. 81, Tomohon, Sulawesi Barat 42232",Makanan,3,9218896
+T00166,U2476,P402,2024-11-18,6,Cash on Delivery (COD),"Gang Ir. H. Djuanda No. 4, Metro, ST 16845",Peralatan Rumah,2,6951816
+T00167,U9837,P997,2024-08-10,6,Dana,"Jl. Erlangga No. 5, Prabumulih, RI 63745",Makanan,3,8581788
+T00168,U5210,P944,2025-01-02,8,Virtual Account,"Gg. Sadang Serang No. 0, Bengkulu, SG 12770",Elektronik,1,31829184
+T00169,U2233,P244,2024-07-31,4,Cash on Delivery (COD),"Jalan Pelajar Pejuang No. 541, Surakarta, Jawa Timur 64361",Makanan,3,3230060
+T00170,U7464,P114,2024-11-15,5,Dana,"Gg. Ciumbuleuit No. 938, Balikpapan, Aceh 16271",Kesehatan,4,2536985
+T00171,U7038,P788,2024-05-14,5,Cash on Delivery (COD),"Jl. Raya Setiabudhi No. 42, Tomohon, JB 18909",Elektronik,1,10057200
+T00172,U8724,P125,2024-10-25,10,Dana,"Jalan Medokan Ayu No. 2, Singkawang, Sulawesi Tengah 11219",Elektronik,5,9097910
+T00173,U4626,P763,2024-11-25,2,Kredivo,"Gang HOS. Cokroaminoto No. 413, Tanjungbalai, BA 38983",Elektronik,4,2057496
+T00174,U3290,P146,2024-12-02,1,Virtual Account,"Jl. Yos Sudarso No. 13, Subulussalam, YO 55269",Fashion,1,865305
+T00175,U4846,P650,2024-07-28,3,Cash on Delivery (COD),"Jalan Asia Afrika No. 1, Kota Administrasi Jakarta Selatan, KT 06848",Fashion,3,13744389
+T00176,U7866,P701,2024-12-09,3,Cash on Delivery (COD),"Jalan KH Amin Jasuta No. 8, Kota Administrasi Jakarta Utara, JK 18328",Kesehatan,4,7753140
+T00177,U7686,P386,2024-06-21,1,QRIS,"Gang Moch. Toha No. 316, Palu, BE 21020",Peralatan Rumah,4,3780379
+T00178,U4868,P975,2024-04-19,6,Transfer Bank,"Jalan Soekarno Hatta No. 410, Pagaralam, KR 49177",Elektronik,5,23120886
+T00179,U6876,P162,2024-09-01,7,Virtual Account,"Jalan Soekarno Hatta No. 419, Kediri, SS 00307",Peralatan Rumah,1,28347137
+T00180,U8450,P193,2024-07-06,4,E-Wallet,"Jl. M.H Thamrin No. 6, Madiun, KU 54195",Kesehatan,3,1549948
+T00181,U4990,P228,2024-04-02,10,Kartu Debit,"Jl. Surapati No. 744, Bekasi, Sulawesi Tenggara 53494",Kesehatan,5,17877610
+T00182,U4538,P932,2024-11-29,4,QRIS,"Gang Kiaracondong No. 8, Bukittinggi, Aceh 03850",Peralatan Rumah,5,295144
+T00183,U5542,P979,2024-06-25,3,Kartu Kredit,"Jalan Laswi No. 3, Pasuruan, Bengkulu 41038",Makanan,3,4541361
+T00184,U2801,P776,2024-07-25,1,Kartu Kredit,"Jl. S. Parman No. 619, Palangkaraya, JB 44565",Kesehatan,3,2045914
+T00185,U6304,P116,2024-06-18,3,Virtual Account,"Jl. Kiaracondong No. 912, Cimahi, ST 56185",Kesehatan,2,10743819
+T00186,U9619,P216,2024-12-11,2,Kredivo,"Gang Pasirkoja No. 124, Jambi, Maluku Utara 13568",Fashion,3,8710704
+T00187,U2786,P562,2024-03-06,9,Kartu Debit,"Jl. Surapati No. 88, Bengkulu, SG 21003",Makanan,1,39818241
+T00188,U5941,P569,2024-04-06,1,E-Wallet,"Jalan Indragiri No. 4, Banda Aceh, DI Yogyakarta 72151",Fashion,4,3625842
+T00189,U2768,P602,2024-03-03,8,Transfer Bank,"Gg. Suniaraja No. 06, Cirebon, NT 24472",Kesehatan,3,10354512
+T00190,U2076,P229,2024-02-29,5,Dana,"Gang M.H Thamrin No. 01, Meulaboh, Jawa Barat 38380",Elektronik,4,22503165
+T00191,U5831,P564,2024-07-13,9,Cash on Delivery (COD),"Gang Ahmad Yani No. 5, Kota Administrasi Jakarta Timur, KB 59304",Kesehatan,1,42074415
+T00192,U4522,P540,2024-03-09,8,Kartu Debit,"Jl. Dipenogoro No. 348, Tual, KI 52239",Fashion,3,3077296
+T00193,U8430,P508,2024-06-18,7,Transfer Bank,"Jalan Ahmad Yani No. 784, Pasuruan, BT 03930",Elektronik,4,7455392
+T00194,U6120,P781,2024-09-07,5,QRIS,"Jalan Gegerkalong Hilir No. 25, Banda Aceh, JT 18515",Peralatan Rumah,4,3065775
+T00195,U2494,P951,2024-11-15,2,Transfer Bank,"Gang Raya Ujungberung No. 267, Cirebon, NT 92644",Fashion,1,6351976
+T00196,U3131,P669,2024-04-05,1,Dana,"Jalan K.H. Wahid Hasyim No. 5, Subulussalam, Gorontalo 25135",Makanan,3,1075350
+T00197,U7730,P462,2024-06-19,7,E-Wallet,"Gang Antapani Lama No. 33, Malang, Kepulauan Bangka Belitung 00676",Elektronik,5,6129116
+T00198,U6119,P460,2024-04-20,2,Dana,"Gang R.E Martadinata No. 17, Cilegon, ST 04054",Peralatan Rumah,2,9262578
+T00199,U8900,P329,2024-03-27,2,QRIS,"Gg. Jamika No. 1, Makassar, Sulawesi Utara 62962",Makanan,3,3444716
+T00200,U2882,P880,2024-03-07,5,Kartu Debit,"Jl. Tubagus Ismail No. 8, Surabaya, Lampung 31069",Fashion,5,13846090
+T00201,U1430,P723,2024-09-16,5,E-Wallet,"Gg. Abdul Muis No. 14, Dumai, GO 32417",Peralatan Rumah,3,13209755
+T00202,U6567,P459,2025-01-08,1,Kartu Kredit,"Gang Rajiman No. 4, Sukabumi, Papua Barat 56527",Peralatan Rumah,5,3412022
+T00203,U2140,P245,2024-03-04,1,Transfer Bank,"Gang Merdeka No. 90, Tomohon, GO 58693",Makanan,2,3205747
+T00204,U7878,P564,2024-09-17,6,Kartu Kredit,"Gang Joyoboyo No. 741, Tasikmalaya, Banten 17223",Elektronik,3,28049610
+T00205,U6314,P895,2024-12-25,10,Transfer Bank,"Gg. Ciwastra No. 6, Sorong, Jawa Tengah 51168",Kesehatan,2,13704490
+T00206,U1815,P790,2024-07-19,2,Virtual Account,"Jalan Wonoayu No. 8, Binjai, SR 29991",Fashion,4,8248050
+T00207,U8242,P524,2025-02-09,5,Kartu Debit,"Gang Tubagus Ismail No. 67, Bandung, Kalimantan Barat 62996",Makanan,1,14727595
+T00208,U8043,P213,2024-03-02,5,Kredivo,"Jl. Waringin No. 50, Langsa, MA 71324",Makanan,3,2154940
+T00209,U4612,P504,2024-11-30,10,E-Wallet,"Gang Rungkut Industri No. 1, Palembang, KT 78508",Kesehatan,2,25784880
+T00210,U4460,P885,2024-12-19,3,Virtual Account,"Gang HOS. Cokroaminoto No. 9, Cirebon, Kalimantan Selatan 03070",Elektronik,3,3169503
+T00211,U1126,P609,2025-02-06,7,Kartu Kredit,"Gang Rawamangun No. 6, Tangerang Selatan, BA 57972",Peralatan Rumah,4,31623368
+T00212,U4770,P612,2025-01-19,9,QRIS,"Gg. Kendalsari No. 769, Tasikmalaya, Papua Barat 63201",Kesehatan,4,3643713
+T00213,U8147,P119,2024-08-18,8,Transfer Bank,"Gg. Dipatiukur No. 06, Cilegon, KT 33468",Elektronik,5,4287288
+T00214,U8033,P687,2024-02-23,7,Cash on Delivery (COD),"Jl. Kutisari Selatan No. 349, Tasikmalaya, Kepulauan Riau 65743",Elektronik,1,24133599
+T00215,U1341,P432,2024-08-15,3,Kredivo,"Jl. Monginsidi No. 5, Langsa, GO 15454",Elektronik,1,10988586
+T00216,U8155,P964,2024-05-27,2,Kartu Debit,"Jl. Cikutra Barat No. 6, Tangerang Selatan, JB 74466",Fashion,5,6818432
+T00217,U9584,P180,2024-07-15,7,Virtual Account,"Jalan Jayawijaya No. 7, Pekalongan, Maluku 82417",Elektronik,2,29573145
+T00218,U6456,P897,2024-04-05,3,Transfer Bank,"Jalan Merdeka No. 34, Magelang, PA 94717",Makanan,1,13503105
+T00219,U9355,P298,2024-03-07,6,QRIS,"Jl. Sukabumi No. 4, Banjarbaru, Jawa Tengah 35697",Peralatan Rumah,2,5474316
+T00220,U3399,P362,2024-04-11,4,Kartu Kredit,"Gg. Rumah Sakit No. 2, Subulussalam, BE 74329",Makanan,2,2728436
+T00221,U3902,P891,2024-12-08,8,Kredivo,"Jl. Kendalsari No. 66, Pariaman, Papua Barat 08350",Makanan,5,30525520
+T00222,U6295,P984,2025-01-27,6,Kartu Kredit,"Jl. Medokan Ayu No. 3, Tanjungbalai, NT 21689",Fashion,1,25855272
+T00223,U8682,P552,2024-06-13,5,Virtual Account,"Gg. PHH. Mustofa No. 89, Palangkaraya, Jawa Barat 75326",Makanan,1,15011525
+T00224,U9312,P175,2024-02-23,5,Kredivo,"Jl. Asia Afrika No. 8, Bitung, Papua 64890",Fashion,1,2636140
+T00225,U7041,P951,2024-10-03,5,Transfer Bank,"Jl. Gardujati No. 76, Purwokerto, Kepulauan Bangka Belitung 23046",Kesehatan,5,15879940
+T00226,U9307,P493,2024-10-29,8,Dana,"Gg. Dr. Djunjunan No. 9, Kotamobagu, Jambi 73934",Kesehatan,4,38781080
+T00227,U4084,P429,2025-01-03,10,Kredivo,"Gang Jamika No. 873, Magelang, Kalimantan Utara 01197",Makanan,2,5690340
+T00228,U8381,P205,2024-04-13,6,Transfer Bank,"Gg. H.J Maemunah No. 744, Banjarbaru, Gorontalo 04556",Makanan,2,2270082
+T00229,U5059,P824,2024-11-28,8,Kredivo,"Jl. HOS. Cokroaminoto No. 2, Manado, Sulawesi Tengah 15521",Makanan,5,11053272
+T00230,U6962,P481,2024-07-20,5,Cash on Delivery (COD),"Gang Ronggowarsito No. 21, Tanjungpinang, BE 16979",Fashion,3,2446365
+T00231,U6482,P167,2024-11-05,6,Transfer Bank,"Gang Kendalsari No. 277, Padang Sidempuan, ST 14508",Makanan,4,14601582
+T00232,U5128,P841,2024-12-10,10,Kartu Kredit,"Gg. Kapten Muslihat No. 3, Malang, Papua Barat 89002",Elektronik,1,49383730
+T00233,U3317,P458,2024-08-30,5,Cash on Delivery (COD),"Jl. Rajiman No. 35, Banjarbaru, SS 86631",Peralatan Rumah,5,3803370
+T00234,U6072,P672,2024-08-12,7,QRIS,"Gg. Cihampelas No. 17, Bima, RI 08801",Peralatan Rumah,5,5837580
+T00235,U7937,P620,2024-12-19,6,E-Wallet,"Gang Siliwangi No. 375, Tasikmalaya, PA 11305",Elektronik,3,9372924
+T00236,U4509,P449,2024-07-02,8,Kartu Debit,"Jl. Jend. A. Yani No. 26, Kota Administrasi Jakarta Pusat, KS 16373",Peralatan Rumah,2,10798192
+T00237,U2264,P402,2024-11-20,2,Dana,"Jalan KH Amin Jasuta No. 9, Yogyakarta, ST 98270",Makanan,5,2317272
+T00238,U1618,P777,2024-09-08,6,Kartu Kredit,"Jalan Indragiri No. 216, Pekalongan, Papua Barat 93465",Makanan,4,8063790
+T00239,U3658,P285,2024-06-09,10,Kartu Kredit,"Gg. Rungkut Industri No. 8, Tanjungpinang, MU 33945",Fashion,1,34965310
+T00240,U6968,P792,2025-02-07,4,Kredivo,"Jalan Setiabudhi No. 7, Tangerang, Lampung 08106",Makanan,3,15263520
+T00241,U4833,P646,2024-04-12,4,Virtual Account,"Gg. Jamika No. 42, Tanjungbalai, Lampung 80571",Fashion,2,9257944
+T00242,U7026,P794,2024-10-12,10,Kredivo,"Gg. Otto Iskandardinata No. 666, Purwokerto, Bengkulu 43973",Fashion,3,32533780
+T00243,U9239,P640,2025-02-03,7,Kartu Kredit,"Gg. Cihampelas No. 122, Metro, BT 48422",Peralatan Rumah,5,12161639
+T00244,U3267,P993,2024-09-29,5,E-Wallet,"Gang Jakarta No. 259, Sorong, MA 98515",Fashion,3,19556515
+T00245,U2680,P828,2024-09-07,9,Transfer Bank,"Jl. Veteran No. 8, Bekasi, Nusa Tenggara Timur 35554",Elektronik,1,12553173
+T00246,U5469,P560,2024-05-10,9,Kartu Kredit,"Gg. Cihampelas No. 993, Tangerang Selatan, MU 16484",Fashion,1,37035846
+T00247,U4637,P936,2024-02-25,8,QRIS,"Jalan PHH. Mustofa No. 3, Pekanbaru, JK 28801",Kesehatan,4,3974008
+T00248,U7495,P614,2024-05-07,6,Kartu Debit,"Jl. Jayawijaya No. 6, Tidore Kepulauan, Jawa Tengah 75011",Fashion,1,5318652
+T00249,U7142,P329,2024-03-08,1,QRIS,"Jl. Pasirkoja No. 67, Palangkaraya, Maluku Utara 61809",Kesehatan,3,1722358
+T00250,U3392,P240,2024-03-11,1,Virtual Account,"Jalan PHH. Mustofa No. 4, Kotamobagu, Sulawesi Tengah 60728",Fashion,2,3985180
+T00251,U8349,P730,2024-05-11,1,Transfer Bank,"Jalan Rajawali Barat No. 5, Purwokerto, Jawa Tengah 00996",Kesehatan,3,1859043
+T00252,U3449,P661,2024-09-11,10,Dana,"Gg. Lembong No. 82, Denpasar, Kalimantan Timur 31290",Fashion,1,36561630
+T00253,U5720,P343,2025-01-11,5,Transfer Bank,"Jalan Pasir Koja No. 397, Manado, JB 14913",Kesehatan,2,17858755
+T00254,U8489,P164,2024-06-18,2,Kredivo,"Gang Indragiri No. 995, Pagaralam, JI 53364",Makanan,5,375738
+T00255,U9443,P688,2025-01-07,4,Kartu Kredit,"Gang Rawamangun No. 54, Purwokerto, GO 91428",Elektronik,4,9410032
+T00256,U1025,P729,2024-05-02,6,Kartu Debit,"Jl. S. Parman No. 0, Yogyakarta, KT 84887",Makanan,4,9727812
+T00257,U2402,P636,2024-10-26,6,Transfer Bank,"Jalan Kutai No. 4, Pangkalpinang, Sumatera Selatan 65803",Makanan,5,25834638
+T00258,U9316,P667,2025-01-10,1,Cash on Delivery (COD),"Jalan Jend. Sudirman No. 9, Ternate, Sulawesi Utara 03731",Fashion,1,3295395
+T00259,U7116,P359,2024-05-28,1,QRIS,"Jl. M.T Haryono No. 67, Banjar, BT 18449",Kesehatan,3,2072710
+T00260,U2698,P890,2024-09-14,10,QRIS,"Gang Kutai No. 1, Metro, Kalimantan Timur 55779",Peralatan Rumah,1,30052980
+T00261,U9945,P446,2024-02-18,3,Kredivo,"Jl. Ciumbuleuit No. 4, Bukittinggi, Kalimantan Barat 59136",Fashion,2,3543675
+T00262,U2033,P833,2024-12-27,8,E-Wallet,"Gang Ronggowarsito No. 926, Kota Administrasi Jakarta Barat, BT 99228",Elektronik,2,3339784
+T00263,U4268,P142,2024-03-02,6,Virtual Account,"Gg. K.H. Wahid Hasyim No. 6, Tebingtinggi, Lampung 37977",Makanan,4,27631626
+T00264,U8756,P359,2024-04-22,1,Kartu Debit,"Jl. Wonoayu No. 8, Cimahi, Nusa Tenggara Barat 99136",Elektronik,3,2072710
+T00265,U1783,P986,2024-07-14,6,Virtual Account,"Jl. M.T Haryono No. 6, Sibolga, Gorontalo 79908",Kesehatan,3,17670654
+T00266,U8159,P509,2024-08-29,8,Cash on Delivery (COD),"Jalan Rungkut Industri No. 0, Pematangsiantar, Sulawesi Barat 08637",Elektronik,2,33699632
+T00267,U9151,P476,2024-12-18,9,Virtual Account,"Gg. HOS. Cokroaminoto No. 73, Kotamobagu, SR 30098",Kesehatan,4,6408783
+T00268,U8055,P716,2024-04-01,3,Dana,"Gg. Tubagus Ismail No. 12, Sungai Penuh, Kepulauan Bangka Belitung 86959",Elektronik,3,2731959
+T00269,U2311,P435,2024-06-02,5,Virtual Account,"Gang Jend. Sudirman No. 88, Kota Administrasi Jakarta Pusat, MA 62137",Fashion,5,18122600
+T00270,U3730,P806,2024-12-16,8,QRIS,"Gg. Sadang Serang No. 9, Cilegon, Papua Barat 12796",Fashion,1,24059848
+T00271,U8126,P381,2024-03-21,1,Transfer Bank,"Gg. Ciwastra No. 0, Padang, Sumatera Utara 90277",Fashion,3,2329311
+T00272,U9406,P920,2024-02-20,3,E-Wallet,"Jl. Kutisari Selatan No. 8, Singkawang, Jawa Timur 53021",Peralatan Rumah,5,8135064
+T00273,U8179,P135,2024-06-02,3,Transfer Bank,"Gang Kutai No. 801, Purwokerto, LA 54393",Peralatan Rumah,3,9263817
+T00274,U7272,P680,2024-08-10,1,Kartu Kredit,"Jalan Tubagus Ismail No. 1, Pekalongan, LA 18489",Fashion,3,3170674
+T00275,U8273,P881,2024-05-23,2,Kartu Kredit,"Jalan Sadang Serang No. 79, Pariaman, JA 16335",Makanan,3,6777902
+T00276,U6150,P765,2024-07-25,5,Kartu Debit,"Jalan Peta No. 651, Parepare, MU 39423",Kesehatan,1,8053420
+T00277,U9176,P630,2024-08-27,7,Dana,"Gg. Laswi No. 339, Bukittinggi, Gorontalo 17908",Kesehatan,3,15634276
+T00278,U8311,P319,2024-03-03,10,Virtual Account,"Gang Joyoboyo No. 72, Mojokerto, KI 08678",Fashion,2,40150510
+T00279,U3009,P238,2024-02-28,2,Kredivo,"Gg. Gedebage Selatan No. 8, Lubuklinggau, AC 36915",Peralatan Rumah,4,1572884
+T00280,U6236,P783,2024-07-05,6,Transfer Bank,"Jalan Pasteur No. 95, Denpasar, SB 36556",Makanan,5,14914410
+T00281,U5914,P971,2024-06-03,3,Kartu Kredit,"Jl. Dipenogoro No. 4, Sabang, SN 32270",Elektronik,5,5793225
+T00282,U2988,P305,2024-04-24,3,Kartu Debit,"Gg. Rajiman No. 48, Mojokerto, GO 03471",Fashion,1,9232257
+T00283,U7044,P578,2024-08-08,9,Kartu Kredit,"Gang Stasiun Wonokromo No. 4, Banda Aceh, SR 59399",Makanan,1,5413815
+T00284,U6067,P507,2024-10-25,8,Dana,"Gang Tebet Barat Dalam No. 7, Bau-Bau, Papua Barat 72256",Fashion,4,38980920
+T00285,U2208,P228,2024-10-18,6,Transfer Bank,"Jl. Sadang Serang No. 554, Sibolga, RI 75987",Fashion,4,10726566
+T00286,U9476,P452,2024-07-25,3,Dana,"Jl. Moch. Toha No. 4, Gorontalo, Jawa Timur 11178",Makanan,2,3397218
+T00287,U8088,P614,2024-03-07,1,Transfer Bank,"Jl. Pasirkoja No. 2, Sungai Penuh, Papua Barat 33472",Makanan,2,886442
+T00288,U5982,P268,2024-04-06,3,QRIS,"Jalan Laswi No. 9, Bekasi, Sumatera Selatan 07286",Peralatan Rumah,3,13208490
+T00289,U5653,P966,2024-09-07,2,Virtual Account,"Gg. Raya Ujungberung No. 78, Purwokerto, Sulawesi Tengah 82997",Peralatan Rumah,5,4704524
+T00290,U3050,P740,2024-10-18,5,Dana,"Gang R.E Martadinata No. 174, Padang Sidempuan, BB 40082",Kesehatan,5,23285940
+T00291,U3762,P706,2024-06-28,10,Kartu Kredit,"Gg. Ronggowarsito No. 06, Serang, KI 85368",Peralatan Rumah,5,28821580
+T00292,U1674,P945,2024-08-03,1,Transfer Bank,"Gg. Sukabumi No. 416, Pematangsiantar, KR 84631",Kesehatan,5,2270094
+T00293,U4453,P885,2024-04-26,10,Cash on Delivery (COD),"Gg. Wonoayu No. 49, Depok, Maluku Utara 20802",Makanan,1,10565010
+T00294,U9159,P742,2024-03-26,9,Virtual Account,"Gg. Antapani Lama No. 120, Jambi, NB 47570",Elektronik,4,29498958
+T00295,U5012,P924,2024-06-23,7,Virtual Account,"Gg. Suniaraja No. 872, Kota Administrasi Jakarta Pusat, Papua Barat 13673",Fashion,1,3868102
+T00296,U3589,P550,2024-11-28,7,Kredivo,"Jalan M.T Haryono No. 3, Meulaboh, Maluku 20881",Fashion,2,20326194
+T00297,U3353,P420,2024-05-24,6,QRIS,"Gg. Cikapayang No. 3, Kendari, SN 02491",Fashion,2,18949896
+T00298,U9437,P675,2024-07-18,2,QRIS,"Gg. Kutisari Selatan No. 513, Payakumbuh, DKI Jakarta 00528",Peralatan Rumah,4,2155576
+T00299,U5382,P560,2024-12-19,4,Kartu Kredit,"Jalan Raya Setiabudhi No. 5, Tegal, Kalimantan Selatan 65240",Kesehatan,1,16460376
+T00300,U5754,P493,2024-08-22,10,Cash on Delivery (COD),"Jalan Ahmad Yani No. 855, Kota Administrasi Jakarta Utara, JI 82744",Peralatan Rumah,2,48476350
+T00301,U6364,P691,2024-09-13,6,Kartu Debit,"Gg. K.H. Wahid Hasyim No. 959, Madiun, YO 38782",Peralatan Rumah,4,14865372
+T00302,U9433,P578,2024-10-11,8,Virtual Account,"Gang Gardujati No. 810, Cirebon, BT 17310",Fashion,1,4812280
+T00303,U2475,P502,2024-09-24,9,Kredivo,"Jalan Siliwangi No. 910, Sungai Penuh, SB 70586",Peralatan Rumah,2,44491005
+T00304,U6781,P149,2024-12-31,1,Virtual Account,"Jalan Ciumbuleuit No. 13, Bengkulu, KI 33839",Fashion,5,3997568
+T00305,U5681,P649,2024-10-15,1,Transfer Bank,"Gg. Tebet Barat Dalam No. 61, Denpasar, Riau 28975",Fashion,2,2509357
+T00306,U5333,P844,2025-01-31,6,Cash on Delivery (COD),"Gang KH Amin Jasuta No. 59, Salatiga, KT 84577",Elektronik,1,20461932
+T00307,U1838,P683,2024-07-19,9,Kartu Debit,"Jalan M.T Haryono No. 404, Jambi, Maluku Utara 48889",Elektronik,5,22238694
+T00308,U2204,P495,2025-02-09,9,Kredivo,"Gg. Setiabudhi No. 245, Kediri, Kepulauan Bangka Belitung 19693",Makanan,3,9419931
+T00309,U3108,P199,2024-11-27,7,QRIS,"Jalan Rajiman No. 9, Serang, Maluku 96105",Elektronik,5,2901416
+T00310,U6990,P873,2024-06-30,3,Kartu Debit,"Jl. Suryakencana No. 0, Banjarbaru, MA 58925",Makanan,5,10251234
+T00311,U9193,P141,2024-08-29,1,E-Wallet,"Gg. Cihampelas No. 9, Jayapura, Sulawesi Selatan 62251",Peralatan Rumah,3,4024053
+T00312,U9508,P567,2024-08-18,3,Dana,"Jalan Surapati No. 6, Tual, Jawa Barat 83769",Peralatan Rumah,3,2033112
+T00313,U6218,P266,2024-05-02,7,Virtual Account,"Gg. Bangka Raya No. 91, Surakarta, Sulawesi Barat 55355",Makanan,3,4542769
+T00314,U9311,P948,2024-10-03,9,Dana,"Gg. Kendalsari No. 92, Banjar, Kalimantan Timur 52110",Fashion,5,23083425
+T00315,U8780,P935,2024-05-20,1,QRIS,"Gg. Gardujati No. 77, Magelang, Kalimantan Tengah 38848",Elektronik,1,3544193
+T00316,U6040,P915,2024-08-21,1,Kredivo,"Jalan Pasir Koja No. 043, Banjarbaru, Sulawesi Tenggara 16451",Elektronik,5,4895548
+T00317,U4728,P838,2024-02-23,1,Kredivo,"Gg. Monginsidi No. 1, Pasuruan, JK 38780",Peralatan Rumah,5,1603149
+T00318,U7229,P251,2024-03-02,4,E-Wallet,"Gang Suniaraja No. 2, Malang, Nusa Tenggara Timur 43840",Makanan,1,6101776
+T00319,U4125,P119,2024-10-16,8,QRIS,"Gg. Merdeka No. 562, Tegal, PB 63926",Fashion,2,4287288
+T00320,U7765,P807,2024-06-16,4,Cash on Delivery (COD),"Jl. Suryakencana No. 983, Lhokseumawe, SU 62925",Makanan,5,3322352
+T00321,U8726,P993,2024-03-13,1,Kartu Kredit,"Jalan Astana Anyar No. 66, Palembang, Kepulauan Riau 31220",Makanan,2,3911303
+T00322,U6325,P778,2024-12-08,8,Dana,"Jl. Astana Anyar No. 17, Pekalongan, SU 26772",Fashion,3,6309592
+T00323,U3837,P570,2024-04-19,9,QRIS,"Gg. Antapani Lama No. 63, Tomohon, Kalimantan Tengah 27975",Makanan,3,20408670
+T00324,U8932,P296,2025-01-17,4,Virtual Account,"Gang Cihampelas No. 6, Mojokerto, SU 81770",Makanan,3,7745284
+T00325,U5876,P889,2025-01-21,5,Kartu Debit,"Gg. M.T Haryono No. 0, Kupang, Sulawesi Tengah 44726",Fashion,3,20374410
+T00326,U6714,P673,2024-06-09,5,Virtual Account,"Gang Dipatiukur No. 8, Denpasar, Jawa Barat 65702",Kesehatan,5,23033075
+T00327,U7220,P504,2024-08-10,6,Kartu Kredit,"Gg. Raya Ujungberung No. 2, Bekasi, Jambi 51868",Elektronik,1,15470928
+T00328,U5712,P831,2024-10-10,2,QRIS,"Jalan Jend. A. Yani No. 92, Bontang, Kalimantan Barat 64474",Fashion,3,8137616
+T00329,U4505,P306,2024-10-16,9,Virtual Account,"Jl. Abdul Muis No. 4, Palu, Sumatera Barat 80973",Makanan,3,10813761
+T00330,U2789,P730,2024-05-10,10,Kartu Debit,"Gang Ciwastra No. 9, Kota Administrasi Jakarta Barat, KR 02205",Peralatan Rumah,1,18590430
+T00331,U9700,P331,2024-03-01,4,E-Wallet,"Gang Dipatiukur No. 162, Tangerang, Lampung 79501",Kesehatan,4,11282812
+T00332,U8739,P202,2024-12-10,3,E-Wallet,"Gang Cikutra Timur No. 81, Parepare, JB 45868",Makanan,2,10390161
+T00333,U8793,P588,2024-05-07,4,Virtual Account,"Jl. Ronggowarsito No. 9, Pagaralam, Maluku Utara 89952",Elektronik,3,2185164
+T00334,U2465,P767,2024-10-11,10,Kartu Debit,"Jalan Kendalsari No. 430, Bandar Lampung, SG 39660",Makanan,1,15185490
+T00335,U7846,P957,2024-06-24,3,E-Wallet,"Jl. Peta No. 14, Pekalongan, MU 15569",Fashion,4,4838685
+T00336,U5742,P997,2024-10-12,1,E-Wallet,"Gg. Sadang Serang No. 7, Bandung, Jawa Barat 27857",Elektronik,5,1430298
+T00337,U2758,P443,2024-12-16,5,Kredivo,"Gang Stasiun Wonokromo No. 0, Samarinda, NB 12405",Makanan,5,20966185
+T00338,U3198,P971,2024-07-10,9,Kredivo,"Jl. Rajawali Timur No. 5, Kota Administrasi Jakarta Timur, Sulawesi Barat 73574",Elektronik,2,17379675
+T00339,U2845,P438,2024-05-09,3,Kredivo,"Gg. BKR No. 178, Pariaman, SS 35784",Elektronik,2,504438
+T00340,U6523,P909,2024-12-13,5,Kartu Debit,"Jl. Laswi No. 0, Meulaboh, SU 04091",Peralatan Rumah,5,17257495
+T00341,U8007,P627,2024-06-24,6,Transfer Bank,"Gg. Asia Afrika No. 4, Madiun, KS 44857",Fashion,1,9600342
+T00342,U3303,P588,2024-11-02,6,Kartu Debit,"Jl. Pelajar Pejuang No. 098, Gorontalo, Nusa Tenggara Timur 42493",Kesehatan,3,3277746
+T00343,U7284,P341,2024-04-22,8,Virtual Account,"Gang Cikapayang No. 070, Meulaboh, Bengkulu 66299",Elektronik,3,39488272
+T00344,U1187,P367,2024-10-17,6,Kartu Debit,"Gang Kiaracondong No. 8, Tomohon, SG 17174",Kesehatan,1,23724096
+T00345,U6026,P263,2024-11-07,7,Dana,"Jl. Ir. H. Djuanda No. 4, Mojokerto, KB 57701",Elektronik,1,17674678
+T00346,U7021,P729,2024-08-18,4,Kartu Debit,"Gang Jend. A. Yani No. 59, Pekanbaru, Gorontalo 15814",Peralatan Rumah,4,6485208
+T00347,U3509,P565,2024-09-09,10,QRIS,"Jalan Wonoayu No. 827, Batam, NB 96695",Fashion,5,39995920
+T00348,U9806,P921,2024-09-14,4,Kartu Debit,"Gg. Gardujati No. 9, Madiun, Gorontalo 24619",Makanan,1,17833076
+T00349,U8319,P640,2024-03-29,6,Transfer Bank,"Jalan Dipatiukur No. 290, Surabaya, JT 84699",Makanan,1,10424262
+T00350,U2011,P948,2024-08-07,9,Dana,"Gang Ahmad Yani No. 4, Tasikmalaya, Nusa Tenggara Timur 90986",Peralatan Rumah,5,23083425
+T00351,U9792,P253,2025-01-10,3,QRIS,"Gg. M.H Thamrin No. 085, Kotamobagu, Bali 69656",Makanan,4,3075273
+T00352,U4365,P834,2024-07-22,10,Kredivo,"Jl. Waringin No. 386, Padangpanjang, JT 22010",Kesehatan,5,37869790
+T00353,U1911,P564,2024-04-11,3,Dana,"Jl. HOS. Cokroaminoto No. 6, Tanjungpinang, SN 78687",Fashion,4,14024805
+T00354,U1945,P672,2024-07-14,8,Virtual Account,"Gg. Rungkut Industri No. 973, Padang Sidempuan, PA 09751",Kesehatan,4,6671520
+T00355,U5169,P936,2024-09-28,1,Kartu Debit,"Gg. Rawamangun No. 1, Kota Administrasi Jakarta Barat, SU 89490",Makanan,1,496751
+T00356,U1742,P533,2025-01-31,6,Transfer Bank,"Gang Monginsidi No. 95, Manado, LA 20949",Makanan,1,3773844
+T00357,U8734,P132,2024-05-27,5,Cash on Delivery (COD),"Jl. Kapten Muslihat No. 90, Pasuruan, DKI Jakarta 81442",Peralatan Rumah,2,11930180
+T00358,U7887,P483,2024-10-12,7,Kredivo,"Jalan Gardujati No. 2, Surabaya, ST 24372",Fashion,4,5062295
+T00359,U9835,P236,2024-12-22,6,Transfer Bank,"Jl. Kutisari Selatan No. 766, Surabaya, Sulawesi Tengah 39504",Peralatan Rumah,5,20083284
+T00360,U9664,P230,2024-12-05,4,E-Wallet,"Gg. Surapati No. 47, Metro, Papua Barat 42860",Kesehatan,3,15735832
+T00361,U9920,P534,2024-06-07,9,Cash on Delivery (COD),"Jalan Dipenogoro No. 5, Singkawang, KR 44149",Peralatan Rumah,2,35226036
+T00362,U6671,P258,2024-07-16,5,Kartu Debit,"Gg. Tebet Barat Dalam No. 2, Purwokerto, AC 10618",Kesehatan,1,24542580
+T00363,U7868,P729,2024-03-27,1,Kartu Debit,"Gg. Pasir Koja No. 009, Banjarmasin, KT 11926",Peralatan Rumah,1,1621302
+T00364,U2653,P708,2024-10-27,1,Kredivo,"Gg. PHH. Mustofa No. 17, Yogyakarta, Sulawesi Selatan 42140",Makanan,1,2102978
+T00365,U1724,P511,2024-07-13,8,Kartu Debit,"Gg. Pasirkoja No. 717, Singkawang, RI 71286",Makanan,2,4187888
+T00366,U3295,P615,2024-05-10,5,Kartu Debit,"Jalan BKR No. 194, Banda Aceh, Sumatera Barat 00642",Makanan,3,24471045
+T00367,U6253,P342,2024-11-13,5,Kartu Kredit,"Gg. Ronggowarsito No. 61, Ambon, PB 19855",Makanan,2,7772930
+T00368,U7775,P407,2024-11-06,5,E-Wallet,"Jl. Siliwangi No. 5, Palu, LA 28063",Makanan,5,7595615
+T00369,U7999,P669,2024-06-11,8,E-Wallet,"Gang Ciwastra No. 7, Bogor, BT 09376",Elektronik,4,8602800
+T00370,U9592,P426,2024-03-11,7,Cash on Delivery (COD),"Jalan BKR No. 05, Padang, JA 87829",Peralatan Rumah,3,22455832
+T00371,U4012,P872,2024-05-16,9,Kredivo,"Gg. Suryakencana No. 790, Tanjungpinang, Jawa Barat 20417",Peralatan Rumah,2,23154831
+T00372,U3365,P925,2024-10-10,8,E-Wallet,"Jl. Yos Sudarso No. 9, Batam, Kalimantan Selatan 56519",Makanan,4,28351368
+T00373,U9683,P237,2024-09-15,7,Kartu Debit,"Jl. Kutai No. 511, Bontang, Sulawesi Barat 58273",Elektronik,2,19743122
+T00374,U2295,P560,2025-02-09,6,Transfer Bank,"Gg. Jamika No. 710, Cirebon, DKI Jakarta 67232",Makanan,2,24690564
+T00375,U1844,P374,2024-10-21,7,E-Wallet,"Jalan Jend. Sudirman No. 0, Tasikmalaya, SB 45608",Kesehatan,2,12835480
+T00376,U4555,P590,2024-05-17,4,QRIS,"Gg. R.E Martadinata No. 3, Yogyakarta, Kalimantan Tengah 03127",Elektronik,1,7307088
+T00377,U4113,P859,2024-08-27,2,Kredivo,"Jl. H.J Maemunah No. 43, Kota Administrasi Jakarta Pusat, Nusa Tenggara Barat 01082",Peralatan Rumah,5,3531160
+T00378,U7498,P345,2024-04-17,9,QRIS,"Jl. Moch. Toha No. 7, Padangpanjang, Kalimantan Selatan 31531",Elektronik,4,35650728
+T00379,U9743,P764,2024-05-18,6,Virtual Account,"Jalan Ciumbuleuit No. 97, Palangkaraya, JT 97265",Elektronik,3,26110896
+T00380,U9147,P577,2024-04-08,2,Kredivo,"Gang Kiaracondong No. 20, Kota Administrasi Jakarta Utara, JB 77625",Elektronik,2,6319396
+T00381,U6126,P523,2024-05-11,1,Kartu Debit,"Jl. Dipatiukur No. 87, Semarang, SU 40633",Peralatan Rumah,1,2237531
+T00382,U7841,P402,2024-06-22,3,Kartu Debit,"Jl. Veteran No. 078, Pagaralam, SU 71773",Elektronik,2,3475908
+T00383,U7223,P683,2024-03-19,4,Kredivo,"Jl. Setiabudhi No. 31, Pariaman, Maluku 79907",Makanan,3,9883864
+T00384,U5216,P881,2024-08-14,8,Kredivo,"Gg. Medokan Ayu No. 01, Tanjungbalai, Nusa Tenggara Barat 46498",Fashion,2,27111608
+T00385,U6770,P273,2024-09-26,3,Dana,"Jalan Monginsidi No. 5, Binjai, Papua Barat 79055",Fashion,2,13793319
+T00386,U1962,P636,2024-04-24,1,Transfer Bank,"Gg. Moch. Toha No. 1, Ternate, Kalimantan Tengah 55486",Kesehatan,1,4305773
+T00387,U7756,P240,2024-06-02,4,Transfer Bank,"Gang Cihampelas No. 88, Parepare, Lampung 95137",Peralatan Rumah,1,15940720
+T00388,U4583,P617,2024-03-20,8,QRIS,"Gg. Ciumbuleuit No. 241, Payakumbuh, Jawa Tengah 80468",Kesehatan,5,32827280
+T00389,U8993,P116,2025-02-11,1,Dana,"Gang Cempaka No. 0, Depok, DI Yogyakarta 38569",Makanan,4,3581273
+T00390,U1194,P117,2024-06-28,9,Virtual Account,"Gang Rajawali Barat No. 2, Cimahi, BB 75402",Makanan,3,1744218
+T00391,U9228,P932,2024-07-02,7,Kartu Kredit,"Jl. Jayawijaya No. 22, Cilegon, KU 05927",Kesehatan,1,516502
+T00392,U9591,P252,2024-05-27,4,Kartu Debit,"Jl. Otto Iskandardinata No. 52, Palopo, JI 10672",Makanan,5,8669748
+T00393,U6807,P373,2024-08-11,7,Transfer Bank,"Gg. H.J Maemunah No. 4, Kupang, JT 51702",Elektronik,4,27302464
+T00394,U4984,P813,2024-11-05,4,Virtual Account,"Gg. Wonoayu No. 751, Banjarmasin, Kalimantan Selatan 43018",Kesehatan,1,11850224
+T00395,U2531,P515,2025-01-10,7,Cash on Delivery (COD),"Jalan Rajiman No. 99, Surakarta, PA 26565",Makanan,4,3645082
+T00396,U1154,P819,2024-02-20,3,Transfer Bank,"Gang Cihampelas No. 1, Tegal, ST 74266",Fashion,4,5951679
+T00397,U6427,P679,2024-04-10,2,Dana,"Gg. Waringin No. 5, Semarang, Papua Barat 06462",Kesehatan,2,6010964
+T00398,U4463,P988,2024-09-18,10,Kredivo,"Jl. Sukabumi No. 87, Langsa, MA 87300",Elektronik,1,6736760
+T00399,U5593,P656,2024-04-15,10,E-Wallet,"Jalan Suryakencana No. 4, Cirebon, SB 01471",Peralatan Rumah,3,1813490
+T00400,U4394,P701,2024-10-05,3,Cash on Delivery (COD),"Gang Medokan Ayu No. 7, Medan, SS 42902",Kesehatan,3,7753140
+T00401,U3661,P677,2024-06-19,4,Cash on Delivery (COD),"Jalan Cikapayang No. 56, Banjarbaru, LA 81832",Makanan,3,5830068
+T00402,U7288,P873,2024-12-08,3,Transfer Bank,"Gang Rajawali Barat No. 51, Bontang, Aceh 84576",Makanan,3,10251234
+T00403,U1879,P200,2024-06-27,7,Kartu Debit,"Jl. S. Parman No. 389, Padangpanjang, Sulawesi Tenggara 12075",Kesehatan,3,2049789
+T00404,U7499,P892,2024-06-16,6,E-Wallet,"Gang Jend. Sudirman No. 4, Tidore Kepulauan, JA 22342",Elektronik,4,24992880
+T00405,U4737,P464,2024-05-07,9,Cash on Delivery (COD),"Jalan Ciumbuleuit No. 760, Bima, Banten 71401",Fashion,2,44682084
+T00406,U7227,P187,2024-06-12,10,Virtual Account,"Jl. Kutai No. 250, Bontang, Kepulauan Riau 52893",Peralatan Rumah,1,7381840
+T00407,U5390,P257,2024-08-30,7,Kartu Kredit,"Jl. Kebonjati No. 28, Tebingtinggi, Gorontalo 87592",Fashion,3,21530404
+T00408,U2745,P193,2024-08-04,1,Virtual Account,"Gang W.R. Supratman No. 836, Tual, Maluku Utara 71827",Fashion,3,387487
+T00409,U5419,P204,2024-12-08,3,Transfer Bank,"Jl. Raya Ujungberung No. 16, Palu, MA 38646",Peralatan Rumah,4,11445519
+T00410,U9395,P517,2024-04-29,2,E-Wallet,"Jalan Antapani Lama No. 7, Mojokerto, Sulawesi Tengah 12669",Kesehatan,3,9398264
+T00411,U2524,P711,2024-03-26,10,QRIS,"Jalan Sadang Serang No. 961, Pagaralam, Sumatera Barat 99465",Fashion,1,24981930
+T00412,U7779,P497,2024-08-18,2,Dana,"Jalan Erlangga No. 147, Kediri, JB 10170",Peralatan Rumah,5,8842682
+T00413,U3778,P801,2024-04-25,7,Kartu Kredit,"Gg. Wonoayu No. 1, Surabaya, SU 73477",Peralatan Rumah,3,18873477
+T00414,U5933,P374,2024-08-30,8,Kartu Kredit,"Jl. Bangka Raya No. 675, Palembang, SG 02842",Kesehatan,2,14669120
+T00415,U8121,P382,2024-08-24,7,Virtual Account,"Gang Rajiman No. 978, Parepare, JI 64796",Fashion,1,21555345
+T00416,U5123,P352,2024-10-12,8,Kartu Debit,"Jalan Astana Anyar No. 0, Mataram, NT 56165",Fashion,1,9492544
+T00417,U5991,P106,2024-07-03,7,QRIS,"Jl. Pacuan Kuda No. 491, Lhokseumawe, JA 20850",Makanan,4,19700772
+T00418,U8212,P442,2024-08-12,7,Kartu Kredit,"Jalan Waringin No. 0, Metro, PB 91713",Elektronik,3,12144048
+T00419,U8848,P421,2024-06-25,3,Cash on Delivery (COD),"Gg. Siliwangi No. 37, Prabumulih, KT 40496",Elektronik,3,12506601
+T00420,U4971,P433,2024-12-24,7,Virtual Account,"Gg. Pasteur No. 987, Gorontalo, Nusa Tenggara Timur 48468",Fashion,3,7037520
+T00421,U4273,P706,2024-06-16,9,Kartu Kredit,"Gang Wonoayu No. 7, Banda Aceh, Sumatera Utara 97374",Makanan,1,25939422
+T00422,U8563,P825,2025-02-13,4,Kredivo,"Gg. Rawamangun No. 324, Padang Sidempuan, MU 36442",Elektronik,1,13928512
+T00423,U9180,P242,2024-05-25,5,Kartu Debit,"Jl. Jakarta No. 034, Pasuruan, Sulawesi Selatan 03242",Elektronik,2,17997270
+T00424,U7176,P175,2024-02-27,8,Kredivo,"Jl. Rajiman No. 015, Batam, SR 16231",Makanan,4,4217824
+T00425,U9755,P618,2024-09-24,7,Dana,"Jalan Moch. Toha No. 1, Magelang, Papua Barat 63212",Kesehatan,3,31877251
+T00426,U2392,P211,2024-05-09,4,QRIS,"Gang Kutai No. 785, Lubuklinggau, SN 34257",Peralatan Rumah,5,1686348
+T00427,U7547,P870,2024-11-19,6,Cash on Delivery (COD),"Jl. Kapten Muslihat No. 348, Lhokseumawe, PA 83760",Kesehatan,1,5263026
+T00428,U5239,P327,2025-02-03,9,Dana,"Jalan Moch. Toha No. 32, Sorong, MU 04177",Makanan,5,43878816
+T00429,U4621,P556,2024-11-28,6,Cash on Delivery (COD),"Jalan Jamika No. 4, Manado, SR 70027",Fashion,5,25489266
+T00430,U3469,P453,2024-12-19,1,Kredivo,"Jalan Medokan Ayu No. 59, Binjai, Jawa Timur 82965",Kesehatan,3,3539454
+T00431,U2406,P218,2024-08-09,3,QRIS,"Jalan Kutai No. 43, Padangpanjang, PA 66930",Elektronik,3,11123745
+T00432,U8460,P903,2024-02-24,4,Dana,"Jalan Pasirkoja No. 2, Padang, Sulawesi Selatan 21529",Fashion,3,3452456
+T00433,U8801,P199,2024-04-01,8,Kredivo,"Gang Gedebage Selatan No. 334, Tidore Kepulauan, Sumatera Barat 26393",Elektronik,1,3315904
+T00434,U5919,P145,2025-01-01,2,E-Wallet,"Jalan Tubagus Ismail No. 044, Solok, ST 59710",Elektronik,1,2857404
+T00435,U4996,P628,2024-08-16,3,Dana,"Jalan Sukajadi No. 6, Batu, Gorontalo 05375",Peralatan Rumah,3,14239059
+T00436,U7985,P573,2024-10-08,4,Cash on Delivery (COD),"Gang Rajawali Barat No. 52, Sawahlunto, Kalimantan Barat 28757",Peralatan Rumah,2,12339300
+T00437,U8080,P505,2024-04-07,1,Kartu Debit,"Jalan Pasirkoja No. 502, Kota Administrasi Jakarta Utara, Papua 44948",Fashion,5,2118861
+T00438,U8037,P498,2024-06-16,1,Kartu Debit,"Gang Jakarta No. 7, Depok, JT 32074",Peralatan Rumah,3,574822
+T00439,U2667,P918,2024-04-19,9,Kartu Kredit,"Gg. Cihampelas No. 58, Palu, SB 21513",Elektronik,3,15328602
+T00440,U8496,P216,2025-01-18,5,Kredivo,"Gg. Ahmad Yani No. 9, Sawahlunto, AC 61371",Makanan,3,21776760
+T00441,U7367,P725,2025-01-25,7,Transfer Bank,"Jalan Suniaraja No. 91, Bukittinggi, BA 77749",Elektronik,3,27235684
+T00442,U3826,P933,2024-10-28,5,Transfer Bank,"Gg. Raya Ujungberung No. 9, Jambi, Bengkulu 50189",Peralatan Rumah,3,5193475
+T00443,U4908,P412,2024-07-13,2,Kartu Kredit,"Jalan Moch. Toha No. 10, Cilegon, Papua Barat 42147",Elektronik,2,6785148
+T00444,U9369,P497,2024-12-23,7,Kartu Kredit,"Gg. Otto Iskandardinata No. 583, Palopo, PB 49961",Makanan,4,30949387
+T00445,U7931,P290,2024-12-05,8,Dana,"Gg. Medokan Ayu No. 10, Pangkalpinang, KI 78814",Peralatan Rumah,5,11598152
+T00446,U9022,P395,2024-08-15,3,Kartu Kredit,"Jalan Ahmad Yani No. 968, Meulaboh, JB 85016",Elektronik,4,1499169
+T00447,U6882,P109,2024-08-03,8,Kartu Kredit,"Jalan Gegerkalong Hilir No. 4, Pematangsiantar, Sulawesi Selatan 90810",Peralatan Rumah,4,38087128
+T00448,U9281,P768,2024-09-02,8,Cash on Delivery (COD),"Jalan Rawamangun No. 9, Manado, Kepulauan Bangka Belitung 80172",Fashion,4,30186384
+T00449,U9006,P271,2024-12-17,2,E-Wallet,"Jl. Veteran No. 4, Semarang, Sulawesi Tenggara 94523",Peralatan Rumah,3,648532
+T00450,U5503,P330,2024-04-27,9,Virtual Account,"Gg. Jayawijaya No. 061, Cimahi, Sulawesi Utara 69749",Peralatan Rumah,4,42269670
+T00451,U9115,P662,2024-12-27,9,Transfer Bank,"Jalan Gegerkalong Hilir No. 031, Tanjungpinang, KS 37236",Makanan,1,20674935
+T00452,U9898,P943,2025-01-08,6,Dana,"Gang Ir. H. Djuanda No. 60, Cimahi, Jawa Tengah 77079",Kesehatan,4,27798858
+T00453,U4580,P535,2024-05-20,2,Kartu Debit,"Jalan Rumah Sakit No. 166, Ternate, Lampung 76789",Elektronik,1,7645256
+T00454,U5305,P456,2024-11-23,2,Kredivo,"Jl. W.R. Supratman No. 5, Kota Administrasi Jakarta Timur, SR 17957",Kesehatan,2,3621170
+T00455,U6744,P981,2024-11-12,10,Cash on Delivery (COD),"Gg. Kebonjati No. 57, Pekalongan, KI 97246",Peralatan Rumah,5,12179870
+T00456,U4385,P933,2024-07-26,4,E-Wallet,"Jl. Peta No. 1, Blitar, KB 29716",Makanan,3,4154780
+T00457,U9720,P387,2024-08-25,10,Dana,"Jl. Asia Afrika No. 45, Cirebon, SS 15619",Peralatan Rumah,3,25047970
+T00458,U5740,P686,2024-05-14,5,Dana,"Gang Sadang Serang No. 08, Bukittinggi, Sumatera Selatan 07711",Kesehatan,2,17513595
+T00459,U1971,P383,2024-12-15,3,Kartu Kredit,"Jl. Medokan Ayu No. 352, Tarakan, Sulawesi Tengah 12552",Peralatan Rumah,2,8255829
+T00460,U5055,P879,2024-04-03,7,Kredivo,"Jalan Pacuan Kuda No. 54, Bau-Bau, Kepulauan Riau 65328",Peralatan Rumah,5,16129134
+T00461,U7786,P484,2024-07-28,8,Transfer Bank,"Gang Tubagus Ismail No. 85, Palembang, Jawa Tengah 81155",Kesehatan,4,35002232
+T00462,U5558,P811,2024-07-20,6,Kredivo,"Gg. BKR No. 2, Sorong, Sumatera Utara 66845",Fashion,3,29590776
+T00463,U1040,P989,2025-02-03,2,Kredivo,"Jalan Surapati No. 38, Tanjungpinang, NT 34108",Elektronik,1,9066154
+T00464,U7516,P323,2024-06-24,7,Kartu Debit,"Jalan Dipatiukur No. 8, Pematangsiantar, NB 00894",Fashion,3,19308723
+T00465,U5646,P445,2024-05-19,9,Kartu Kredit,"Jl. Soekarno Hatta No. 85, Banjarbaru, JA 49075",Makanan,4,26401464
+T00466,U1793,P147,2024-05-17,2,Kredivo,"Gang Otto Iskandardinata No. 9, Tasikmalaya, Papua Barat 15893",Kesehatan,1,7740614
+T00467,U3588,P551,2024-12-31,8,E-Wallet,"Jl. W.R. Supratman No. 11, Pagaralam, JB 37158",Fashion,2,9252536
+T00468,U5945,P262,2024-07-21,5,Transfer Bank,"Gang Cempaka No. 7, Cilegon, JT 77288",Elektronik,3,3706965
+T00469,U7092,P780,2024-04-01,3,E-Wallet,"Jalan Jamika No. 5, Sibolga, Sulawesi Barat 15940",Fashion,3,7723650
+T00470,U4836,P539,2024-09-06,2,Transfer Bank,"Gang Soekarno Hatta No. 47, Bontang, Jawa Tengah 04432",Kesehatan,2,8099488
+T00471,U2276,P235,2024-12-30,10,Kartu Debit,"Gg. Cikutra Timur No. 679, Salatiga, ST 67922",Makanan,4,1279040
+T00472,U1132,P812,2024-08-30,6,Transfer Bank,"Jl. Pasteur No. 5, Tual, ST 61340",Fashion,2,24343440
+T00473,U2160,P334,2024-10-20,7,Transfer Bank,"Jalan Raya Ujungberung No. 996, Kediri, RI 80741",Kesehatan,1,18750074
+T00474,U7022,P406,2025-01-17,3,Cash on Delivery (COD),"Jalan H.J Maemunah No. 1, Solok, Bengkulu 78018",Peralatan Rumah,2,1871634
+T00475,U9691,P676,2024-04-25,1,Kartu Kredit,"Jl. Indragiri No. 18, Padang, Banten 05626",Fashion,3,1837238
+T00476,U3480,P521,2024-02-25,10,Kredivo,"Jalan Gardujati No. 824, Denpasar, BB 24620",Peralatan Rumah,1,8927620
+T00477,U3293,P870,2024-10-11,2,Cash on Delivery (COD),"Jl. Rajawali Barat No. 15, Padang Sidempuan, MU 61033",Elektronik,4,1754342
+T00478,U6152,P910,2024-12-04,3,Kartu Debit,"Jalan Pasteur No. 578, Batam, Sulawesi Utara 63048",Elektronik,1,6395325
+T00479,U5668,P897,2024-09-30,1,Virtual Account,"Gg. Ahmad Yani No. 71, Bontang, Papua 38687",Peralatan Rumah,5,4501035
+T00480,U9348,P293,2024-03-03,7,Virtual Account,"Jalan Abdul Muis No. 749, Tangerang Selatan, Papua Barat 39840",Kesehatan,2,29409933
+T00481,U7322,P215,2024-04-18,4,Kredivo,"Gg. Gedebage Selatan No. 846, Singkawang, Sumatera Selatan 54743",Makanan,1,17926352
+T00482,U1197,P469,2024-10-30,6,Kartu Kredit,"Gg. Kutisari Selatan No. 02, Sibolga, SU 02687",Fashion,5,21482754
+T00483,U6986,P659,2024-12-08,3,Kredivo,"Jl. Otto Iskandardinata No. 15, Serang, NT 20175",Kesehatan,1,14931486
+T00484,U2106,P114,2025-02-13,5,Kartu Debit,"Jl. Asia Afrika No. 53, Singkawang, Maluku 37504",Kesehatan,1,2536985
+T00485,U7520,P618,2024-08-25,5,Dana,"Gg. Gardujati No. 98, Cimahi, Kalimantan Selatan 19212",Fashion,4,22769465
+T00486,U7590,P184,2024-05-26,9,Dana,"Jl. Tebet Barat Dalam No. 9, Tangerang Selatan, Sulawesi Tenggara 60566",Makanan,2,21398112
+T00487,U2369,P417,2024-06-01,2,Dana,"Gang M.T Haryono No. 304, Prabumulih, Sulawesi Tengah 06351",Peralatan Rumah,2,9099132
+T00488,U6353,P500,2025-01-22,10,Transfer Bank,"Jalan Pacuan Kuda No. 254, Sorong, Gorontalo 76095",Elektronik,4,20518350
+T00489,U1948,P350,2025-01-07,2,Cash on Delivery (COD),"Gg. Moch. Toha No. 05, Batu, ST 79110",Kesehatan,4,2951852
+T00490,U1901,P416,2025-02-06,3,Transfer Bank,"Jalan Gegerkalong Hilir No. 704, Batam, Gorontalo 80466",Kesehatan,2,435645
+T00491,U3684,P608,2024-03-24,6,Dana,"Gg. Sukajadi No. 69, Makassar, BA 85931",Makanan,3,8703516
+T00492,U7092,P229,2024-03-26,5,Transfer Bank,"Jalan Jamika No. 5, Sibolga, Sulawesi Barat 15940",Kesehatan,3,22503165
+T00493,U8034,P378,2024-02-20,9,Transfer Bank,"Gg. Setiabudhi No. 79, Denpasar, Kalimantan Utara 00249",Elektronik,5,6268590
+T00494,U9128,P566,2024-08-03,9,QRIS,"Jl. Waringin No. 95, Medan, AC 03880",Kesehatan,4,43248465
+T00495,U3734,P476,2024-07-28,3,Virtual Account,"Jl. Cikutra Timur No. 37, Serang, NB 94652",Kesehatan,5,2136261
+T00496,U2889,P333,2024-03-27,9,E-Wallet,"Jalan Abdul Muis No. 3, Pangkalpinang, KT 75636",Kesehatan,1,18913014
+T00497,U1753,P583,2024-04-27,6,Cash on Delivery (COD),"Jl. Dipenogoro No. 38, Palopo, PA 79825",Peralatan Rumah,2,2079906
+T00498,U7870,P329,2025-01-01,6,Kartu Debit,"Jl. Setiabudhi No. 812, Palembang, Kalimantan Selatan 00334",Fashion,3,10334148
+T00499,U5444,P945,2024-04-23,2,QRIS,"Gg. M.H Thamrin No. 230, Kota Administrasi Jakarta Selatan, Gorontalo 26153",Kesehatan,5,4540188
+T00500,U1862,P283,2024-06-13,4,Dana,"Gang Kapten Muslihat No. 896, Bitung, JT 33865",Kesehatan,4,2512784
+T00501,U8620,P986,2024-06-18,5,Virtual Account,"Jl. Jayawijaya No. 25, Banjarbaru, KR 89731",Elektronik,1,14725545
+T00502,U8483,P108,2024-12-16,6,Kartu Debit,"Jl. Moch. Toha No. 984, Kota Administrasi Jakarta Timur, Riau 56793",Elektronik,5,13611000
+T00503,U5979,P857,2024-08-16,10,Kartu Debit,"Gang Yos Sudarso No. 7, Madiun, Papua 77496",Fashion,3,41886090
+T00504,U4201,P850,2024-10-20,9,Kartu Debit,"Jl. Cihampelas No. 634, Metro, Jawa Timur 48121",Peralatan Rumah,1,31406688
+T00505,U1391,P338,2024-06-09,9,QRIS,"Jl. Rawamangun No. 9, Pagaralam, ST 66575",Kesehatan,3,41591700
+T00506,U1023,P877,2024-06-01,7,Virtual Account,"Gg. Moch. Ramdan No. 15, Kupang, SS 43111",Kesehatan,2,31460842
+T00507,U4902,P529,2024-07-04,8,E-Wallet,"Jalan Tebet Barat Dalam No. 44, Depok, Jawa Barat 04456",Peralatan Rumah,3,6642912
+T00508,U1719,P337,2024-07-22,9,Cash on Delivery (COD),"Gg. Moch. Ramdan No. 373, Tebingtinggi, Sulawesi Tenggara 15366",Elektronik,4,1159479
+T00509,U2391,P694,2024-05-07,2,Dana,"Gg. HOS. Cokroaminoto No. 2, Ternate, AC 55366",Peralatan Rumah,4,1355446
+T00510,U2020,P545,2024-11-08,3,Kartu Debit,"Jalan Ahmad Yani No. 225, Metro, KT 18637",Elektronik,3,13693563
+T00511,U6161,P920,2024-03-29,7,QRIS,"Jalan Jend. A. Yani No. 820, Bandar Lampung, KB 16433",Elektronik,4,18981816
+T00512,U5455,P339,2024-06-08,2,Kartu Debit,"Gg. M.T Haryono No. 256, Cilegon, Jambi 86716",Peralatan Rumah,5,1928260
+T00513,U3546,P208,2025-01-31,3,Kredivo,"Gg. Bangka Raya No. 7, Sibolga, Maluku 87430",Fashion,3,3996324
+T00514,U7660,P223,2024-04-11,9,QRIS,"Jalan Ahmad Dahlan No. 97, Pangkalpinang, BT 47546",Peralatan Rumah,4,23726448
+T00515,U8591,P371,2024-10-11,2,Transfer Bank,"Jl. Wonoayu No. 6, Meulaboh, Kalimantan Barat 60324",Peralatan Rumah,3,6299634
+T00516,U1660,P320,2025-01-23,6,Kartu Kredit,"Gg. Tubagus Ismail No. 1, Batu, GO 67243",Kesehatan,2,18205116
+T00517,U7492,P625,2024-08-30,1,Virtual Account,"Jl. KH Amin Jasuta No. 7, Makassar, Riau 60041",Elektronik,2,310735
+T00518,U7625,P975,2024-11-17,8,Dana,"Gang Rawamangun No. 183, Bogor, Sulawesi Utara 22091",Makanan,2,30827848
+T00519,U2551,P573,2024-04-24,2,Kartu Kredit,"Jalan Ciumbuleuit No. 0, Bukittinggi, ST 23083",Kesehatan,1,6169650
+T00520,U2010,P950,2024-08-05,4,Kartu Kredit,"Gang Cempaka No. 900, Yogyakarta, Kalimantan Selatan 53310",Peralatan Rumah,4,12690292
+T00521,U2376,P696,2024-07-28,10,Virtual Account,"Jalan Otto Iskandardinata No. 312, Banjar, Sulawesi Barat 55839",Kesehatan,1,5908300
+T00522,U4239,P761,2024-05-06,8,Kartu Kredit,"Jl. Lembong No. 552, Padang, MU 63731",Kesehatan,3,8622688
+T00523,U1699,P572,2024-10-28,1,Kartu Kredit,"Jl. Lembong No. 49, Bima, JI 19562",Makanan,4,3363489
+T00524,U9128,P130,2024-06-23,7,Cash on Delivery (COD),"Jl. Waringin No. 95, Medan, AC 03880",Peralatan Rumah,3,12958183
+T00525,U4066,P381,2024-04-24,5,Kredivo,"Gg. Asia Afrika No. 9, Metro, SS 89030",Peralatan Rumah,1,11646555
+T00526,U5026,P762,2024-10-12,5,Kredivo,"Gg. Pacuan Kuda No. 1, Bogor, Papua 43263",Fashion,5,20342010
+T00527,U1999,P189,2024-10-22,5,Cash on Delivery (COD),"Gang HOS. Cokroaminoto No. 50, Sukabumi, Lampung 35533",Peralatan Rumah,4,4179860
+T00528,U4267,P758,2024-09-12,9,Kartu Debit,"Gg. M.T Haryono No. 27, Batam, Sumatera Barat 30232",Makanan,1,29327634
+T00529,U6883,P591,2024-03-22,9,Kredivo,"Jl. W.R. Supratman No. 7, Cimahi, Kalimantan Selatan 62934",Elektronik,5,38379420
+T00530,U6269,P497,2024-06-05,5,Kartu Kredit,"Gang Ciwastra No. 66, Parepare, ST 89627",Kesehatan,3,22106705
+T00531,U4588,P130,2024-02-23,5,E-Wallet,"Gg. Gedebage Selatan No. 395, Cimahi, JB 30958",Fashion,5,9255845
+T00532,U6856,P885,2024-12-07,10,Kartu Debit,"Gg. Kutisari Selatan No. 2, Kota Administrasi Jakarta Pusat, PB 47468",Peralatan Rumah,1,10565010
+T00533,U5060,P772,2024-10-08,4,Virtual Account,"Jalan Waringin No. 230, Pekalongan, PA 66656",Makanan,1,7562228
+T00534,U7363,P463,2024-08-24,3,Kartu Kredit,"Jalan Gedebage Selatan No. 92, Tual, SN 58750",Peralatan Rumah,5,8152839
+T00535,U6878,P705,2024-10-25,1,QRIS,"Jl. Ronggowarsito No. 502, Sibolga, SG 43992",Makanan,5,1242040
+T00536,U4084,P956,2024-02-20,8,Dana,"Gang Jamika No. 873, Magelang, Kalimantan Utara 01197",Elektronik,2,27673984
+T00537,U9035,P138,2024-04-01,2,E-Wallet,"Jalan M.T Haryono No. 626, Tanjungbalai, Maluku 94611",Peralatan Rumah,5,3771004
+T00538,U1326,P639,2024-10-20,8,E-Wallet,"Jalan Suniaraja No. 4, Cimahi, SB 11686",Elektronik,5,13920040
+T00539,U3137,P448,2024-10-27,3,QRIS,"Jl. Soekarno Hatta No. 237, Pekalongan, JA 93230",Kesehatan,1,3867294
+T00540,U3320,P892,2024-12-03,2,Dana,"Gang Cempaka No. 9, Subulussalam, Jawa Timur 41614",Elektronik,1,8330960
+T00541,U7120,P821,2024-03-11,7,Transfer Bank,"Gg. Rajiman No. 1, Banjarmasin, KR 90138",Elektronik,3,19293337
+T00542,U3235,P261,2024-12-19,7,Kredivo,"Gang Waringin No. 96, Medan, Nusa Tenggara Barat 35669",Elektronik,2,10840480
+T00543,U6846,P328,2024-03-09,10,Kartu Kredit,"Jl. Erlangga No. 6, Bandar Lampung, JA 35797",Fashion,3,25205890
+T00544,U3086,P281,2024-09-02,1,Cash on Delivery (COD),"Gg. Asia Afrika No. 5, Ternate, MU 39769",Makanan,1,1577412
+T00545,U6213,P928,2024-12-20,10,Kartu Debit,"Gang Kapten Muslihat No. 1, Kupang, Kalimantan Selatan 89802",Makanan,1,42123010
+T00546,U3304,P439,2024-08-27,2,Kartu Debit,"Jalan Cihampelas No. 783, Jambi, Jawa Timur 16025",Elektronik,3,9840678
+T00547,U3750,P751,2025-01-31,2,QRIS,"Gg. Otto Iskandardinata No. 12, Bekasi, NB 99156",Fashion,1,761400
+T00548,U5345,P314,2025-02-03,4,Transfer Bank,"Jl. Pasirkoja No. 411, Makassar, KS 95256",Elektronik,3,3825036
+T00549,U1020,P149,2024-09-27,7,Kredivo,"Jl. Sukajadi No. 55, Pematangsiantar, Kalimantan Timur 60875",Fashion,2,27982976
+T00550,U7783,P604,2024-04-12,7,QRIS,"Gang Ir. H. Djuanda No. 4, Tidore Kepulauan, BT 48149",Makanan,4,6305908
+T00551,U8855,P907,2024-08-19,10,Kartu Debit,"Gang Cikutra Barat No. 23, Tanjungpinang, Bengkulu 76420",Peralatan Rumah,4,11523620
+T00552,U2207,P918,2024-09-15,1,Virtual Account,"Gang Sentot Alibasa No. 61, Kotamobagu, KS 12590",Kesehatan,3,1703178
+T00553,U5278,P207,2025-01-11,2,QRIS,"Jl. Cempaka No. 7, Bontang, KT 30591",Peralatan Rumah,4,2799528
+T00554,U2228,P660,2024-11-05,2,QRIS,"Jalan Cikutra Barat No. 572, Bitung, Sumatera Selatan 96263",Makanan,5,8198978
+T00555,U1507,P541,2024-02-29,3,Cash on Delivery (COD),"Gang Rajawali Barat No. 9, Sungai Penuh, Papua Barat 76475",Peralatan Rumah,1,2698236
+T00556,U6424,P310,2024-02-20,4,Cash on Delivery (COD),"Jl. Rajiman No. 8, Banda Aceh, Sulawesi Utara 19267",Makanan,5,9100808
+T00557,U5612,P404,2024-10-23,4,Transfer Bank,"Jl. Raya Ujungberung No. 826, Mojokerto, SU 18981",Kesehatan,4,19385408
+T00558,U9043,P257,2024-12-04,1,QRIS,"Jl. Abdul Muis No. 7, Bitung, Banten 93218",Kesehatan,4,3075772
+T00559,U2435,P401,2024-05-25,10,Kredivo,"Gg. Siliwangi No. 2, Surabaya, Aceh 40848",Peralatan Rumah,1,2658860
+T00560,U4390,P274,2024-08-06,5,Transfer Bank,"Gang Rungkut Industri No. 8, Tanjungbalai, Gorontalo 30324",Fashion,1,13183275
+T00561,U7512,P582,2025-01-13,8,Virtual Account,"Gg. Pelajar Pejuang No. 961, Kota Administrasi Jakarta Selatan, Papua Barat 67146",Kesehatan,5,26406504
+T00562,U4029,P479,2025-02-15,7,QRIS,"Gg. KH Amin Jasuta No. 3, Salatiga, Sumatera Selatan 62566",Peralatan Rumah,4,2969911
+T00563,U5313,P550,2024-02-26,8,Virtual Account,"Jalan Jayawijaya No. 861, Subulussalam, DKI Jakarta 54234",Peralatan Rumah,3,23229936
+T00564,U2009,P254,2024-02-19,2,Transfer Bank,"Gg. Dr. Djunjunan No. 284, Bengkulu, Sumatera Utara 94849",Elektronik,5,7045542
+T00565,U4727,P666,2024-03-25,1,Cash on Delivery (COD),"Gang K.H. Wahid Hasyim No. 88, Pariaman, Jawa Barat 08222",Makanan,4,2824878
+T00566,U9773,P803,2024-07-12,8,Kartu Debit,"Jalan Tebet Barat Dalam No. 6, Denpasar, ST 78446",Fashion,3,5698576
+T00567,U7468,P974,2024-09-05,1,Dana,"Gg. Tubagus Ismail No. 11, Tegal, Kalimantan Utara 29014",Makanan,5,4843967
+T00568,U3415,P223,2024-09-18,8,Kartu Kredit,"Jalan Ronggowarsito No. 88, Padang, AC 06853",Peralatan Rumah,2,21090176
+T00569,U4157,P229,2024-11-28,1,Cash on Delivery (COD),"Jl. Jend. Sudirman No. 528, Banjarbaru, Sulawesi Selatan 62515",Kesehatan,4,4500633
+T00570,U4308,P942,2025-02-04,3,Virtual Account,"Gang Ronggowarsito No. 43, Ternate, Riau 48079",Elektronik,1,11719719
+T00571,U2425,P497,2025-01-10,9,Cash on Delivery (COD),"Jalan Kendalsari No. 54, Bima, AC 26501",Makanan,3,39792069
+T00572,U5525,P632,2024-08-01,8,E-Wallet,"Jl. Tubagus Ismail No. 702, Jayapura, SU 54562",Makanan,5,5095856
+T00573,U9561,P900,2024-09-11,7,Transfer Bank,"Gang Ronggowarsito No. 384, Bogor, Gorontalo 30833",Fashion,2,5066131
+T00574,U3428,P680,2024-12-27,10,Transfer Bank,"Gang Jamika No. 560, Tarakan, KS 34026",Kesehatan,5,31706740
+T00575,U2654,P904,2024-07-28,5,Dana,"Jl. Ronggowarsito No. 4, Padangpanjang, SB 25686",Elektronik,4,11328690
+T00576,U7275,P770,2024-04-07,8,Kredivo,"Gg. S. Parman No. 477, Banjarmasin, PA 11998",Kesehatan,2,18882728
+T00577,U7602,P247,2024-03-29,10,Cash on Delivery (COD),"Jl. Sentot Alibasa No. 0, Banjarbaru, Nusa Tenggara Barat 90674",Kesehatan,4,28307730
+T00578,U4892,P150,2024-06-04,8,Virtual Account,"Jalan Wonoayu No. 823, Yogyakarta, JA 36371",Elektronik,1,23073808
+T00579,U5965,P418,2024-11-14,5,Kredivo,"Jl. Gedebage Selatan No. 604, Bontang, Sulawesi Selatan 93106",Kesehatan,2,4159475
+T00580,U3201,P407,2024-07-23,8,QRIS,"Gg. W.R. Supratman No. 08, Sukabumi, BE 14545",Elektronik,4,12152984
+T00581,U2462,P292,2024-11-18,8,Kartu Debit,"Jalan K.H. Wahid Hasyim No. 005, Kotamobagu, SU 91624",Fashion,4,35061816
+T00582,U7126,P940,2024-08-24,1,Dana,"Gg. Siliwangi No. 533, Manado, SR 32260",Peralatan Rumah,1,4914749
+T00583,U6097,P826,2024-07-06,9,Cash on Delivery (COD),"Jl. Otto Iskandardinata No. 825, Ternate, PA 34396",Peralatan Rumah,5,43383321
+T00584,U1474,P277,2024-03-20,4,Kartu Debit,"Jl. Kutai No. 3, Tarakan, Sulawesi Tengah 18954",Kesehatan,2,1309680
+T00585,U8478,P151,2024-11-23,6,Kartu Debit,"Jl. Gegerkalong Hilir No. 684, Mataram, ST 61768",Elektronik,3,23664876
+T00586,U9275,P506,2025-02-11,2,E-Wallet,"Jalan PHH. Mustofa No. 903, Payakumbuh, Sumatera Selatan 27868",Peralatan Rumah,3,8300480
+T00587,U8308,P281,2024-12-14,8,Dana,"Jalan K.H. Wahid Hasyim No. 293, Pekanbaru, SG 43448",Elektronik,3,12619296
+T00588,U3679,P957,2024-04-02,5,Transfer Bank,"Jl. PHH. Mustofa No. 242, Banjarbaru, Kalimantan Utara 81059",Elektronik,1,8064475
+T00589,U7333,P150,2024-07-08,3,Kartu Debit,"Jalan Tubagus Ismail No. 4, Banjarmasin, AC 34240",Peralatan Rumah,2,8652678
+T00590,U4387,P375,2024-09-11,7,Dana,"Jalan Cempaka No. 543, Bukittinggi, Sulawesi Tengah 65271",Kesehatan,1,28189105
+T00591,U3167,P762,2024-08-26,3,E-Wallet,"Jl. Kebonjati No. 7, Sukabumi, Lampung 42269",Peralatan Rumah,3,12205206
+T00592,U6004,P829,2024-04-28,5,Cash on Delivery (COD),"Gg. Pacuan Kuda No. 61, Tegal, Aceh 66010",Fashion,3,19501770
+T00593,U5128,P323,2024-12-08,8,Virtual Account,"Gg. Kapten Muslihat No. 3, Malang, Papua Barat 89002",Makanan,5,22067112
+T00594,U7506,P698,2025-01-03,2,E-Wallet,"Jl. Pasteur No. 900, Probolinggo, Nusa Tenggara Barat 32797",Makanan,3,9519686
+T00595,U5631,P405,2024-12-28,2,Kredivo,"Gang Jakarta No. 084, Banda Aceh, Banten 84186",Kesehatan,3,4738618
+T00596,U6327,P982,2024-04-11,5,Virtual Account,"Jl. W.R. Supratman No. 25, Jayapura, Papua Barat 72131",Elektronik,2,20875345
+T00597,U3456,P629,2024-06-04,4,E-Wallet,"Jalan Siliwangi No. 092, Pagaralam, SU 92624",Makanan,4,16593952
+T00598,U6236,P797,2024-10-15,3,E-Wallet,"Jalan Pasteur No. 95, Denpasar, SB 36556",Fashion,3,6678675
+T00599,U7857,P514,2024-12-29,7,E-Wallet,"Gg. Yos Sudarso No. 5, Tasikmalaya, YO 22526",Makanan,5,11501861
+T00600,U6622,P843,2024-08-07,4,Dana,"Gg. Pelajar Pejuang No. 152, Yogyakarta, PB 57676",Fashion,3,17222660
+T00601,U5918,P965,2024-10-06,3,Dana,"Gg. Veteran No. 7, Prabumulih, KI 19689",Peralatan Rumah,3,2606259
+T00602,U8713,P231,2024-12-13,5,Dana,"Gg. Abdul Muis No. 058, Bogor, Jambi 55247",Peralatan Rumah,3,3995505
+T00603,U4641,P463,2024-04-11,4,Virtual Account,"Jl. Cikutra Barat No. 2, Tanjungpinang, JT 06501",Fashion,3,10870452
+T00604,U7089,P366,2024-10-30,10,Virtual Account,"Jl. Ir. H. Djuanda No. 21, Batu, Aceh 22728",Fashion,1,39971460
+T00605,U1879,P987,2024-11-13,10,Transfer Bank,"Jl. S. Parman No. 389, Padangpanjang, Sulawesi Tenggara 12075",Fashion,2,42483080
+T00606,U2963,P988,2024-06-11,7,Dana,"Gang H.J Maemunah No. 0, Binjai, JT 09282",Elektronik,4,4715732
+T00607,U1885,P991,2024-02-20,3,Kartu Kredit,"Gang Joyoboyo No. 4, Pagaralam, JI 18623",Peralatan Rumah,3,10447647
+T00608,U8496,P246,2024-07-20,6,Kartu Kredit,"Gg. Ahmad Yani No. 9, Sawahlunto, AC 61371",Kesehatan,4,17041788
+T00609,U3897,P420,2024-10-13,1,E-Wallet,"Jalan Stasiun Wonokromo No. 1, Pariaman, Maluku Utara 62056",Fashion,3,3158316
+T00610,U4430,P879,2024-05-01,3,Kartu Kredit,"Jl. Siliwangi No. 5, Kendari, LA 81139",Fashion,1,6912486
+T00611,U3120,P729,2024-02-20,7,Cash on Delivery (COD),"Jl. Moch. Toha No. 19, Salatiga, SU 05140",Fashion,4,11349114
+T00612,U8821,P492,2024-07-03,1,E-Wallet,"Gg. Suniaraja No. 5, Tanjungpinang, GO 68182",Makanan,2,3179801
+T00613,U1230,P429,2024-02-25,9,Kartu Debit,"Gg. Jamika No. 711, Jambi, JT 88985",Kesehatan,1,5121306
+T00614,U5076,P331,2024-08-07,6,Virtual Account,"Gang Wonoayu No. 06, Gorontalo, DI Yogyakarta 97102",Peralatan Rumah,1,16924218
+T00615,U7284,P615,2024-12-09,10,Virtual Account,"Gang Cikapayang No. 070, Meulaboh, Bengkulu 66299",Peralatan Rumah,1,48942090
+T00616,U1749,P405,2025-01-19,5,Kredivo,"Jalan Erlangga No. 24, Batam, KR 51127",Makanan,5,11846545
+T00617,U9587,P445,2024-05-26,7,Kartu Kredit,"Jalan Gedebage Selatan No. 7, Mataram, LA 69275",Elektronik,4,20534472
+T00618,U6885,P868,2024-09-02,4,Kartu Kredit,"Gg. S. Parman No. 40, Ternate, KU 21462",Fashion,1,7864444
+T00619,U4675,P844,2024-09-24,3,Kartu Debit,"Gg. Rawamangun No. 1, Pangkalpinang, SG 11216",Kesehatan,5,10230966
+T00620,U9267,P273,2024-12-10,2,QRIS,"Gang Cikutra Timur No. 59, Jambi, SU 47082",Kesehatan,4,9195546
+T00621,U5190,P889,2024-08-16,9,E-Wallet,"Jalan Kutisari Selatan No. 05, Parepare, Kalimantan Tengah 30644",Makanan,1,36673938
+T00622,U2771,P769,2024-10-19,1,E-Wallet,"Jl. Pelajar Pejuang No. 14, Padangpanjang, Sumatera Utara 42016",Kesehatan,4,3777178
+T00623,U7230,P226,2024-06-27,9,Virtual Account,"Gg. Veteran No. 78, Tanjungpinang, SN 96089",Fashion,2,15964344
+T00624,U1152,P408,2024-05-03,7,Transfer Bank,"Gang Antapani Lama No. 727, Binjai, Sulawesi Barat 80727",Makanan,3,8404277
+T00625,U7862,P950,2024-10-21,2,Dana,"Jl. Veteran No. 8, Serang, Papua Barat 53390",Makanan,1,6345146
+T00626,U5631,P216,2024-07-08,2,Kredivo,"Gang Jakarta No. 084, Banda Aceh, Banten 84186",Peralatan Rumah,5,8710704
+T00627,U4272,P896,2024-12-28,5,Dana,"Gang S. Parman No. 776, Manado, NT 85127",Peralatan Rumah,3,1327030
+T00628,U7713,P402,2024-07-31,3,E-Wallet,"Gg. Sukabumi No. 64, Bekasi, GO 09617",Makanan,4,3475908
+T00629,U4402,P804,2024-12-03,8,QRIS,"Gg. Veteran No. 378, Binjai, Kalimantan Selatan 15766",Peralatan Rumah,1,1255592
+T00630,U2458,P213,2024-02-18,10,Kredivo,"Gang Kapten Muslihat No. 46, Ambon, SR 00258",Peralatan Rumah,1,4309880
+T00631,U9383,P176,2024-12-30,2,Virtual Account,"Gg. Moch. Toha No. 6, Singkawang, RI 96262",Peralatan Rumah,4,5066428
+T00632,U5327,P575,2024-07-21,1,Transfer Bank,"Jalan Dipenogoro No. 2, Sorong, RI 82531",Peralatan Rumah,1,3879079
+T00633,U5760,P468,2024-03-23,6,Cash on Delivery (COD),"Jl. Astana Anyar No. 8, Samarinda, Papua Barat 27523",Kesehatan,1,2609670
+T00634,U1158,P972,2024-10-26,3,Kartu Kredit,"Gang Erlangga No. 33, Kediri, SR 57662",Elektronik,3,13765113
+T00635,U8171,P736,2025-01-29,5,Transfer Bank,"Jl. Sukabumi No. 04, Bontang, Bali 17911",Elektronik,3,9190335
+T00636,U3996,P216,2024-04-11,7,Cash on Delivery (COD),"Jl. Ciumbuleuit No. 53, Bengkulu, SB 61713",Fashion,3,30487464
+T00637,U7319,P806,2024-11-08,8,Cash on Delivery (COD),"Gang Jamika No. 402, Bitung, NB 79980",Peralatan Rumah,1,24059848
+T00638,U3171,P812,2024-04-17,1,Kartu Kredit,"Jl. Jayawijaya No. 882, Mataram, JA 05231",Kesehatan,4,4057240
+T00639,U8908,P921,2024-11-24,10,Kredivo,"Gang Kiaracondong No. 584, Tidore Kepulauan, Sumatera Barat 86342",Peralatan Rumah,5,44582690
+T00640,U7221,P897,2024-05-02,6,E-Wallet,"Gg. Jend. A. Yani No. 767, Serang, KR 91966",Peralatan Rumah,4,27006210
+T00641,U8997,P215,2024-05-03,7,Kredivo,"Gg. Jend. A. Yani No. 849, Kupang, SU 60125",Kesehatan,1,31371116
+T00642,U5286,P770,2024-07-31,6,E-Wallet,"Jl. Lembong No. 5, Bontang, Maluku Utara 05053",Makanan,5,14162046
+T00643,U4669,P785,2024-08-14,6,Dana,"Gg. Peta No. 3, Bima, KR 96655",Makanan,5,5093688
+T00644,U8091,P777,2024-05-02,4,Kredivo,"Gang Cihampelas No. 61, Palopo, Jawa Timur 96390",Elektronik,4,5375860
+T00645,U3435,P959,2024-06-05,9,E-Wallet,"Gang Gegerkalong Hilir No. 08, Makassar, Bali 71644",Kesehatan,2,38619072
+T00646,U8688,P972,2024-06-18,8,Kartu Kredit,"Gg. Yos Sudarso No. 0, Langsa, SG 15910",Kesehatan,4,36706968
+T00647,U6253,P346,2024-05-12,6,Virtual Account,"Gg. Ronggowarsito No. 61, Ambon, PB 19855",Kesehatan,5,11509182
+T00648,U7203,P512,2024-03-05,4,Transfer Bank,"Gg. Bangka Raya No. 213, Prabumulih, Aceh 40104",Fashion,4,6582348
+T00649,U8341,P190,2024-03-16,8,Kredivo,"Gang Jend. A. Yani No. 971, Lubuklinggau, JT 71883",Elektronik,1,33778160
+T00650,U1291,P205,2024-09-27,7,Cash on Delivery (COD),"Gang Ronggowarsito No. 144, Manado, KU 11703",Kesehatan,5,2648429
+T00651,U9996,P100,2024-02-21,2,Virtual Account,"Jalan Rajiman No. 539, Tual, Maluku 28123",Makanan,5,3570388
+T00652,U8474,P449,2025-02-06,6,E-Wallet,"Jalan Surapati No. 146, Tangerang Selatan, MA 27113",Peralatan Rumah,4,8098644
+T00653,U6439,P673,2024-02-22,10,Kredivo,"Jalan Waringin No. 8, Manado, BB 81563",Elektronik,4,46066150
+T00654,U2868,P199,2024-04-14,4,E-Wallet,"Jalan Cempaka No. 51, Sungai Penuh, PB 34362",Elektronik,3,1657952
+T00655,U5783,P660,2024-10-03,9,QRIS,"Jalan Cikapayang No. 3, Jayapura, JA 09431",Kesehatan,1,36895401
+T00656,U3689,P604,2024-09-09,3,Cash on Delivery (COD),"Gg. Suniaraja No. 13, Payakumbuh, Kalimantan Tengah 35494",Kesehatan,3,2702532
+T00657,U4209,P292,2024-11-27,2,Cash on Delivery (COD),"Gg. Rajawali Timur No. 3, Lubuklinggau, DI Yogyakarta 25720",Peralatan Rumah,4,8765454
+T00658,U4122,P833,2024-10-31,6,Transfer Bank,"Jalan Jend. Sudirman No. 12, Serang, NT 90737",Fashion,1,2504838
+T00659,U3018,P890,2024-03-29,8,Kredivo,"Jalan Ahmad Dahlan No. 2, Bengkulu, Gorontalo 57758",Makanan,5,24042384
+T00660,U3205,P610,2024-05-25,1,Dana,"Gang Antapani Lama No. 45, Binjai, KR 26325",Kesehatan,5,3680676
+T00661,U8912,P620,2024-08-27,3,Kartu Kredit,"Gang Laswi No. 1, Metro, Gorontalo 87824",Peralatan Rumah,1,4686462
+T00662,U7347,P773,2025-02-03,10,QRIS,"Gang Pelajar Pejuang No. 30, Singkawang, JA 79541",Makanan,4,35620140
+T00663,U5067,P380,2024-02-19,7,QRIS,"Jalan M.T Haryono No. 98, Langsa, SB 14070",Elektronik,4,8181628
+T00664,U3263,P522,2024-05-10,10,Dana,"Gg. Rajawali Timur No. 650, Kota Administrasi Jakarta Pusat, JB 48821",Elektronik,5,26832740
+T00665,U4560,P305,2024-11-18,4,Virtual Account,"Gg. Indragiri No. 430, Manado, KU 66144",Elektronik,2,12309676
+T00666,U3913,P615,2024-10-04,9,QRIS,"Gang Indragiri No. 342, Purwokerto, KS 41497",Kesehatan,3,44047881
+T00667,U8870,P696,2024-09-14,10,Cash on Delivery (COD),"Jalan HOS. Cokroaminoto No. 7, Pekalongan, Nusa Tenggara Timur 56766",Makanan,3,5908300
+T00668,U7920,P927,2024-08-13,1,Dana,"Jalan HOS. Cokroaminoto No. 4, Sawahlunto, Sumatera Selatan 29894",Kesehatan,1,3244971
+T00669,U3381,P154,2024-03-07,1,Kartu Debit,"Jalan Rawamangun No. 7, Bau-Bau, BE 15914",Elektronik,2,2454305
+T00670,U5105,P249,2024-09-22,1,Virtual Account,"Jl. Indragiri No. 8, Tanjungpinang, KT 87232",Peralatan Rumah,5,321005
+T00671,U6876,P933,2024-06-11,8,Transfer Bank,"Jalan Soekarno Hatta No. 419, Kediri, SS 00307",Makanan,5,8309560
+T00672,U4675,P860,2024-10-16,9,Cash on Delivery (COD),"Gg. Rawamangun No. 1, Pangkalpinang, SG 11216",Peralatan Rumah,5,22165983
+T00673,U1769,P490,2024-06-15,7,Cash on Delivery (COD),"Jl. Cikutra Timur No. 291, Kota Administrasi Jakarta Barat, Kalimantan Tengah 70876",Elektronik,5,3509275
+T00674,U1212,P861,2024-03-08,5,Kartu Debit,"Gang K.H. Wahid Hasyim No. 849, Surabaya, Jambi 20223",Makanan,4,9710185
+T00675,U7025,P873,2024-04-22,10,Dana,"Gang PHH. Mustofa No. 1, Medan, Kepulauan Riau 61766",Makanan,2,34170780
+T00676,U4170,P401,2024-04-13,8,Kartu Kredit,"Jalan Ahmad Yani No. 09, Bandung, Sulawesi Tengah 52774",Kesehatan,2,2127088
+T00677,U3847,P852,2024-02-19,9,Transfer Bank,"Gg. Ahmad Dahlan No. 81, Sungai Penuh, Jawa Tengah 95724",Fashion,1,32801256
+T00678,U5572,P669,2024-12-16,5,Kartu Kredit,"Gg. Sukabumi No. 92, Blitar, MU 99610",Peralatan Rumah,5,5376750
+T00679,U5178,P105,2024-02-27,6,Kredivo,"Jl. Yos Sudarso No. 7, Tual, Kalimantan Timur 12661",Peralatan Rumah,1,8036142
+T00680,U6285,P711,2024-03-11,1,Virtual Account,"Jl. Cempaka No. 90, Madiun, GO 62983",Fashion,5,2498193
+T00681,U6866,P174,2024-05-02,6,Dana,"Gang Merdeka No. 268, Bekasi, BA 30205",Peralatan Rumah,2,26502972
+T00682,U2117,P905,2024-12-12,9,Kartu Kredit,"Jalan H.J Maemunah No. 7, Gorontalo, SU 59821",Fashion,5,40994856
+T00683,U7609,P194,2024-08-04,6,Kartu Debit,"Jl. Gegerkalong Hilir No. 4, Bitung, SB 09850",Peralatan Rumah,3,16963122
+T00684,U6911,P400,2024-05-13,4,Dana,"Gang Cikutra Timur No. 418, Pematangsiantar, SS 69081",Fashion,5,495400
+T00685,U2879,P784,2024-09-29,6,Kredivo,"Jl. Sadang Serang No. 43, Tual, BE 38503",Peralatan Rumah,5,12572220
+T00686,U1653,P798,2024-08-25,6,Cash on Delivery (COD),"Jalan Veteran No. 9, Purwokerto, Sulawesi Utara 40107",Kesehatan,4,15072342
+T00687,U5203,P653,2024-08-31,5,E-Wallet,"Gang Rajawali Barat No. 000, Prabumulih, Papua Barat 87066",Makanan,3,21821685
+T00688,U9335,P556,2024-11-12,8,E-Wallet,"Jalan Gardujati No. 19, Manado, Kalimantan Selatan 60331",Elektronik,2,33985688
+T00689,U6248,P626,2024-10-01,2,Transfer Bank,"Jalan Antapani Lama No. 3, Batu, Bengkulu 72405",Peralatan Rumah,5,9045708
+T00690,U1120,P741,2024-06-30,2,Kartu Debit,"Gg. Ronggowarsito No. 1, Batu, Kepulauan Bangka Belitung 75374",Peralatan Rumah,4,1843602
+T00691,U4368,P650,2025-02-15,7,Transfer Bank,"Gg. Raya Setiabudhi No. 8, Banjarbaru, NT 97413",Peralatan Rumah,1,32070241
+T00692,U8523,P834,2025-02-04,6,E-Wallet,"Jalan Gedebage Selatan No. 20, Tanjungpinang, Sulawesi Tengah 10704",Kesehatan,1,22721874
+T00693,U1889,P282,2024-06-02,5,Dana,"Jl. Pelajar Pejuang No. 6, Banda Aceh, PB 70336",Kesehatan,5,9798145
+T00694,U5237,P517,2024-04-27,7,Kredivo,"Jalan R.E Martadinata No. 09, Kota Administrasi Jakarta Selatan, KT 59660",Fashion,4,32893924
+T00695,U6183,P117,2024-12-25,7,Transfer Bank,"Gang W.R. Supratman No. 9, Cilegon, Papua Barat 32044",Makanan,1,1356614
+T00696,U2036,P874,2024-03-20,10,E-Wallet,"Gang BKR No. 4, Kota Administrasi Jakarta Timur, Kepulauan Bangka Belitung 14954",Kesehatan,3,42681020
+T00697,U2738,P396,2025-01-10,5,Transfer Bank,"Jalan Cempaka No. 705, Subulussalam, Kalimantan Tengah 09149",Elektronik,4,16247640
+T00698,U7473,P941,2024-09-17,1,Kredivo,"Jalan Pasirkoja No. 47, Kediri, KB 90310",Peralatan Rumah,5,1894367
+T00699,U3234,P864,2024-04-27,7,Dana,"Jl. Cikutra Barat No. 4, Banda Aceh, NT 93511",Elektronik,2,17851953
+T00700,U7113,P111,2024-08-30,9,Dana,"Jl. Laswi No. 95, Batu, SN 20595",Peralatan Rumah,1,3603762
+T00701,U1082,P686,2024-06-25,10,Cash on Delivery (COD),"Gang Wonoayu No. 250, Bukittinggi, BA 93588",Makanan,5,35027190
+T00702,U2394,P412,2024-12-16,4,QRIS,"Jalan Kapten Muslihat No. 2, Tual, JK 39898",Peralatan Rumah,4,13570296
+T00703,U9397,P245,2024-11-27,3,Kartu Kredit,"Gg. Kapten Muslihat No. 8, Lubuklinggau, KR 94353",Peralatan Rumah,5,9617241
+T00704,U5140,P298,2024-12-22,2,Kartu Kredit,"Gang Gardujati No. 3, Tegal, SR 15881",Makanan,1,1824772
+T00705,U9992,P572,2025-02-05,9,Transfer Bank,"Gg. Veteran No. 928, Padang Sidempuan, JB 45511",Elektronik,1,30271401
+T00706,U5107,P200,2024-07-23,4,Kredivo,"Jalan K.H. Wahid Hasyim No. 02, Padangpanjang, BB 12060",Elektronik,3,1171308
+T00707,U3100,P787,2024-11-09,4,Transfer Bank,"Gg. W.R. Supratman No. 26, Tasikmalaya, Lampung 55999",Elektronik,5,2542396
+T00708,U4170,P425,2024-03-28,8,Kredivo,"Jalan Ahmad Yani No. 09, Bandung, Sulawesi Tengah 52774",Elektronik,5,20913528
+T00709,U3496,P679,2024-11-22,10,QRIS,"Gang Tubagus Ismail No. 7, Kupang, Sulawesi Utara 29812",Elektronik,4,30054820
+T00710,U3762,P104,2025-01-28,6,Kartu Debit,"Gg. Ronggowarsito No. 06, Serang, KI 85368",Peralatan Rumah,4,14225748
+T00711,U6889,P237,2024-02-19,6,Kredivo,"Gang Cempaka No. 894, Kediri, MA 50988",Fashion,4,16922676
+T00712,U6877,P893,2024-09-28,5,Kredivo,"Gang Raya Setiabudhi No. 203, Pematangsiantar, KR 15421",Makanan,1,7622330
+T00713,U2343,P961,2024-06-06,5,Kartu Kredit,"Jalan Jend. A. Yani No. 49, Kediri, KR 13882",Makanan,2,21153380
+T00714,U5312,P851,2024-02-26,2,Transfer Bank,"Gg. Astana Anyar No. 34, Tegal, Sulawesi Tengah 74117",Kesehatan,5,623352
+T00715,U7637,P887,2025-01-26,10,Kartu Debit,"Jalan HOS. Cokroaminoto No. 15, Tidore Kepulauan, KI 52854",Kesehatan,5,22362080
+T00716,U9904,P652,2024-08-10,8,Kartu Kredit,"Gg. Dipenogoro No. 8, Depok, Banten 32963",Elektronik,4,15385848
+T00717,U5767,P237,2024-11-03,8,Dana,"Jalan Rajiman No. 742, Subulussalam, DKI Jakarta 06178",Makanan,1,22563568
+T00718,U7500,P472,2024-10-10,9,E-Wallet,"Gg. Pasirkoja No. 6, Subulussalam, Nusa Tenggara Timur 82434",Peralatan Rumah,5,12970764
+T00719,U9423,P243,2024-11-01,8,Kartu Kredit,"Gang R.E Martadinata No. 41, Binjai, LA 75361",Peralatan Rumah,5,38371032
+T00720,U3395,P853,2024-04-24,8,QRIS,"Gg. Suniaraja No. 2, Pasuruan, SR 04483",Kesehatan,2,33125104
+T00721,U4796,P164,2025-01-26,5,QRIS,"Gang Tebet Barat Dalam No. 66, Pagaralam, RI 04735",Peralatan Rumah,1,939345
+T00722,U4387,P630,2024-10-20,6,Cash on Delivery (COD),"Jalan Cempaka No. 543, Bukittinggi, Sulawesi Tengah 65271",Fashion,4,13400808
+T00723,U1760,P140,2024-12-29,6,Transfer Bank,"Gang Merdeka No. 2, Sorong, Jambi 29800",Makanan,3,13553130
+T00724,U9918,P683,2024-12-23,3,Cash on Delivery (COD),"Gang M.H Thamrin No. 083, Prabumulih, KS 86342",Fashion,3,7412898
+T00725,U2275,P629,2025-02-03,5,Cash on Delivery (COD),"Jalan M.H Thamrin No. 3, Bandung, BA 86702",Peralatan Rumah,5,20742440
+T00726,U7649,P461,2024-06-04,6,Kredivo,"Jl. BKR No. 16, Blitar, KR 11860",Fashion,5,632070
+T00727,U9222,P242,2024-02-21,8,Kartu Kredit,"Jalan Rungkut Industri No. 56, Langsa, Kepulauan Riau 31497",Peralatan Rumah,1,28795632
+T00728,U9430,P758,2024-07-11,5,Kartu Debit,"Jl. Tubagus Ismail No. 4, Kotamobagu, SS 60765",Peralatan Rumah,2,16293130
+T00729,U3578,P470,2024-12-08,10,Transfer Bank,"Jl. Suniaraja No. 757, Sukabumi, Maluku 21182",Peralatan Rumah,4,28201260
+T00730,U2856,P593,2024-05-06,8,Kredivo,"Jl. Surapati No. 7, Banjarmasin, SB 64520",Peralatan Rumah,5,11221048
+T00731,U7732,P122,2024-06-19,4,E-Wallet,"Jalan Stasiun Wonokromo No. 87, Sungai Penuh, KU 77881",Peralatan Rumah,5,5606596
+T00732,U3207,P744,2025-02-07,9,E-Wallet,"Gg. Gegerkalong Hilir No. 281, Dumai, Sulawesi Tengah 06728",Makanan,2,30622779
+T00733,U1916,P270,2024-08-23,5,Kartu Kredit,"Jalan PHH. Mustofa No. 644, Singkawang, Papua 24839",Makanan,4,23889290
+T00734,U1305,P999,2024-11-19,5,Transfer Bank,"Gang Laswi No. 22, Balikpapan, MU 22710",Peralatan Rumah,4,3152980
+T00735,U8723,P988,2024-06-16,8,Kartu Kredit,"Gg. Rumah Sakit No. 097, Batam, Nusa Tenggara Timur 50344",Peralatan Rumah,4,5389408
+T00736,U3338,P913,2024-12-30,10,Kartu Kredit,"Gang Pasir Koja No. 8, Batu, JT 34249",Makanan,5,22689600
+T00737,U3747,P841,2024-03-26,6,Kredivo,"Gang Kendalsari No. 7, Cimahi, Aceh 31922",Makanan,5,29630238
+T00738,U2127,P335,2024-04-20,7,Cash on Delivery (COD),"Jalan Cikapayang No. 876, Madiun, MA 38666",Peralatan Rumah,1,1322559
+T00739,U4315,P635,2024-11-16,9,Cash on Delivery (COD),"Gang Ahmad Dahlan No. 932, Tasikmalaya, JT 87741",Peralatan Rumah,5,7720299
+T00740,U3906,P587,2024-09-19,10,E-Wallet,"Jl. Siliwangi No. 56, Singkawang, KS 52037",Makanan,5,10357990
+T00741,U2526,P593,2024-07-05,3,Dana,"Gang Dipenogoro No. 48, Sibolga, Kepulauan Riau 47604",Kesehatan,4,4207893
+T00742,U9553,P530,2024-06-01,6,E-Wallet,"Gang Rajiman No. 781, Medan, Bali 22161",Makanan,4,11850420
+T00743,U8899,P908,2024-03-08,7,QRIS,"Jalan R.E Martadinata No. 39, Magelang, MU 95806",Makanan,5,6087956
+T00744,U7971,P237,2024-07-26,5,Kredivo,"Jl. Pasteur No. 270, Sibolga, Kalimantan Selatan 20448",Peralatan Rumah,1,14102230
+T00745,U5641,P712,2024-07-01,9,Cash on Delivery (COD),"Jalan Ahmad Yani No. 11, Denpasar, DKI Jakarta 59020",Elektronik,2,862929
+T00746,U1116,P691,2024-05-10,9,Transfer Bank,"Jl. Rajawali Timur No. 3, Lhokseumawe, BE 42429",Makanan,1,22298058
+T00747,U7144,P770,2024-06-17,4,QRIS,"Gg. Kiaracondong No. 447, Bekasi, SB 95587",Fashion,3,9441364
+T00748,U2746,P258,2025-01-03,7,Virtual Account,"Jalan Jayawijaya No. 3, Malang, Lampung 58841",Elektronik,5,34359612
+T00749,U7939,P678,2024-09-02,6,Virtual Account,"Gg. Pasirkoja No. 182, Bogor, Sulawesi Tenggara 59690",Fashion,2,21098454
+T00750,U8904,P283,2024-06-20,6,Dana,"Jl. Veteran No. 55, Denpasar, Nusa Tenggara Timur 27820",Makanan,4,3769176
+T00751,U5157,P414,2024-08-04,10,QRIS,"Gang Pacuan Kuda No. 59, Pariaman, RI 03816",Fashion,2,10489630
+T00752,U4764,P557,2024-07-30,3,Transfer Bank,"Jl. Monginsidi No. 498, Salatiga, JB 50142",Peralatan Rumah,5,10230444
+T00753,U6544,P920,2024-12-23,9,E-Wallet,"Jalan Erlangga No. 232, Lhokseumawe, JK 33613",Peralatan Rumah,4,24405192
+T00754,U1086,P923,2024-04-15,2,Kartu Kredit,"Jalan Sentot Alibasa No. 786, Parepare, PB 31625",Fashion,5,7404420
+T00755,U2444,P165,2024-12-08,5,Kartu Debit,"Gang Tebet Barat Dalam No. 6, Prabumulih, DI Yogyakarta 79039",Elektronik,1,1833570
+T00756,U7296,P510,2024-04-25,10,Dana,"Gang S. Parman No. 996, Sukabumi, Kalimantan Timur 73034",Elektronik,5,5320340
+T00757,U3871,P755,2024-08-03,8,Kredivo,"Jalan W.R. Supratman No. 446, Bandung, Kepulauan Bangka Belitung 22681",Kesehatan,2,35172672
+T00758,U5685,P299,2024-08-14,1,Dana,"Gg. Antapani Lama No. 529, Tangerang Selatan, Sulawesi Tenggara 76604",Makanan,2,1471725
+T00759,U1590,P468,2024-07-30,4,E-Wallet,"Gang Waringin No. 5, Binjai, KB 86120",Peralatan Rumah,1,1739780
+T00760,U5520,P898,2024-06-25,7,QRIS,"Gang Cikapayang No. 40, Pasuruan, SG 09546",Fashion,4,34764772
+T00761,U4281,P630,2024-06-26,1,Transfer Bank,"Jalan PHH. Mustofa No. 60, Madiun, MA 91508",Kesehatan,5,2233468
+T00762,U5661,P843,2024-11-28,9,QRIS,"Jl. Jayawijaya No. 227, Kota Administrasi Jakarta Utara, NT 93897",Elektronik,3,38750985
+T00763,U4707,P720,2024-03-02,4,Kredivo,"Jalan Ir. H. Djuanda No. 1, Pekanbaru, DKI Jakarta 46602",Fashion,5,356076
+T00764,U5277,P279,2024-12-02,7,Dana,"Jalan Kebonjati No. 4, Singkawang, SS 05973",Kesehatan,5,4600519
+T00765,U9243,P401,2024-12-07,6,Transfer Bank,"Gg. S. Parman No. 0, Denpasar, LA 06306",Makanan,3,1595316
+T00766,U9813,P932,2024-10-28,10,Virtual Account,"Gang Kutisari Selatan No. 5, Jayapura, Kalimantan Timur 53194",Fashion,4,737860
+T00767,U8923,P888,2024-11-24,4,QRIS,"Gang Waringin No. 0, Makassar, MU 72773",Fashion,4,16204784
+T00768,U1448,P593,2024-09-09,2,Virtual Account,"Gang BKR No. 9, Sorong, Sumatera Barat 13854",Kesehatan,4,2805262
+T00769,U4610,P793,2024-06-08,4,QRIS,"Jalan Jakarta No. 9, Solok, NT 60487",Fashion,3,17531004
+T00770,U9776,P109,2024-05-17,5,Kartu Debit,"Jalan Dipenogoro No. 33, Samarinda, LA 26865",Elektronik,1,23804455
+T00771,U7536,P789,2024-12-03,6,Transfer Bank,"Gang Siliwangi No. 1, Pekalongan, Riau 67747",Makanan,2,24285816
+T00772,U6142,P462,2024-04-16,4,Virtual Account,"Jalan Jayawijaya No. 72, Meulaboh, Sulawesi Barat 63093",Peralatan Rumah,2,3502352
+T00773,U9175,P854,2024-04-09,4,Kartu Debit,"Gg. Kendalsari No. 297, Medan, Bali 88327",Peralatan Rumah,3,7138336
+T00774,U4755,P307,2024-07-08,4,QRIS,"Jalan Raya Ujungberung No. 410, Samarinda, Sulawesi Tenggara 39732",Peralatan Rumah,1,4222452
+T00775,U2285,P792,2024-08-13,8,E-Wallet,"Jl. Rawamangun No. 1, Tidore Kepulauan, Banten 87616",Makanan,1,30527040
+T00776,U8901,P480,2024-05-26,10,QRIS,"Gang Cikutra Barat No. 60, Padang, Sumatera Selatan 61124",Fashion,5,23546270
+T00777,U9041,P287,2024-12-06,9,Virtual Account,"Gang Kapten Muslihat No. 23, Gorontalo, Kepulauan Bangka Belitung 51773",Fashion,2,43986762
+T00778,U3101,P155,2024-12-05,9,Cash on Delivery (COD),"Gang Rumah Sakit No. 49, Serang, BT 28403",Fashion,5,2908395
+T00779,U9232,P455,2025-01-22,7,Kartu Kredit,"Gang Jamika No. 4, Tasikmalaya, ST 22294",Fashion,1,30779133
+T00780,U8537,P423,2025-01-14,1,E-Wallet,"Jl. Lembong No. 4, Sawahlunto, AC 58867",Peralatan Rumah,4,2278136
+T00781,U2650,P433,2024-10-13,6,Virtual Account,"Gg. M.T Haryono No. 67, Pontianak, Sulawesi Utara 76015",Peralatan Rumah,5,6032160
+T00782,U5306,P342,2024-05-13,5,Kredivo,"Jl. Pelajar Pejuang No. 1, Manado, SB 90833",Makanan,3,7772930
+T00783,U6995,P288,2024-07-06,8,Cash on Delivery (COD),"Gg. S. Parman No. 488, Banjarmasin, Sulawesi Tengah 34233",Peralatan Rumah,4,25385272
+T00784,U6981,P974,2024-11-09,7,Virtual Account,"Gg. M.H Thamrin No. 13, Blitar, SU 03339",Fashion,2,33907769
+T00785,U3148,P689,2024-12-07,4,Transfer Bank,"Jl. Raya Setiabudhi No. 1, Pariaman, JA 17318",Elektronik,2,8348672
+T00786,U8081,P976,2024-10-01,7,Kartu Debit,"Jalan Indragiri No. 17, Semarang, Sulawesi Tenggara 46947",Peralatan Rumah,2,28123914
+T00787,U1159,P280,2024-10-18,7,Kredivo,"Gang H.J Maemunah No. 48, Makassar, Kepulauan Riau 71270",Peralatan Rumah,5,31705590
+T00788,U6172,P904,2024-06-18,8,Virtual Account,"Jl. Cikutra Timur No. 41, Makassar, KB 13348",Elektronik,5,18125904
+T00789,U1781,P507,2024-06-13,2,Kartu Kredit,"Gg. Kendalsari No. 925, Depok, RI 29258",Kesehatan,2,9745230
+T00790,U5166,P587,2024-08-17,2,Kredivo,"Gg. Waringin No. 52, Magelang, NT 74696",Elektronik,3,2071598
+T00791,U6914,P468,2024-12-08,9,Dana,"Jalan Tubagus Ismail No. 27, Banda Aceh, KS 44505",Elektronik,3,3914505
+T00792,U1324,P521,2024-07-31,2,QRIS,"Jl. Wonoayu No. 7, Bima, YO 25797",Makanan,2,1785524
+T00793,U9821,P278,2024-03-04,5,QRIS,"Gg. Rungkut Industri No. 6, Bengkulu, BE 48574",Elektronik,5,20696965
+T00794,U8322,P180,2024-03-30,7,Virtual Account,"Gg. Tubagus Ismail No. 294, Sabang, JK 35984",Fashion,2,29573145
+T00795,U3745,P755,2024-09-19,6,Cash on Delivery (COD),"Jl. Raya Setiabudhi No. 73, Madiun, SG 75534",Makanan,5,26379504
+T00796,U7631,P969,2024-05-25,2,Transfer Bank,"Gg. W.R. Supratman No. 70, Pekanbaru, Papua 96085",Peralatan Rumah,3,3928860
+T00797,U6136,P424,2024-12-18,5,Virtual Account,"Jalan Ciumbuleuit No. 1, Prabumulih, JI 97931",Makanan,4,11626965
+T00798,U8289,P899,2024-12-09,6,Dana,"Gang Jakarta No. 5, Denpasar, NB 86069",Fashion,4,8721396
+T00799,U4012,P974,2024-06-09,1,Kartu Kredit,"Gg. Suryakencana No. 790, Tanjungpinang, Jawa Barat 20417",Peralatan Rumah,3,4843967
+T00800,U2311,P315,2024-02-18,3,Cash on Delivery (COD),"Gang Jend. Sudirman No. 88, Kota Administrasi Jakarta Pusat, MA 62137",Kesehatan,1,10376820
+T00801,U2045,P999,2024-10-15,8,Dana,"Jl. Raya Ujungberung No. 24, Sawahlunto, MU 39592",Kesehatan,1,5044768
+T00802,U7504,P636,2024-04-29,2,Transfer Bank,"Jalan Dipenogoro No. 890, Probolinggo, Nusa Tenggara Timur 55333",Elektronik,5,8611546
+T00803,U3544,P186,2024-06-12,7,Virtual Account,"Jalan Lembong No. 02, Bitung, Papua Barat 73607",Peralatan Rumah,2,17036845
+T00804,U8260,P741,2024-08-04,3,Kartu Kredit,"Gg. Kutai No. 128, Cilegon, KT 79556",Makanan,2,2765403
+T00805,U1468,P135,2024-04-30,6,QRIS,"Gang Pasir Koja No. 1, Banda Aceh, Aceh 66155",Fashion,4,18527634
+T00806,U9856,P378,2024-06-15,9,Kredivo,"Jalan Indragiri No. 496, Tasikmalaya, Kalimantan Selatan 93149",Peralatan Rumah,5,6268590
+T00807,U3900,P705,2025-01-05,10,Kredivo,"Jalan Ciwastra No. 6, Banda Aceh, Kepulauan Riau 02329",Makanan,4,12420400
+T00808,U9576,P755,2024-02-19,9,Virtual Account,"Gg. BKR No. 934, Solok, Sulawesi Barat 62282",Elektronik,4,39569256
+T00809,U9841,P332,2024-11-30,2,Kredivo,"Jl. Astana Anyar No. 34, Sorong, Papua 95005",Elektronik,3,7015632
+T00810,U5256,P259,2024-02-27,5,E-Wallet,"Gg. Cihampelas No. 6, Cilegon, GO 53161",Kesehatan,5,5966855
+T00811,U6634,P393,2024-03-30,8,Dana,"Gang HOS. Cokroaminoto No. 0, Parepare, SU 25859",Kesehatan,4,32415424
+T00812,U5908,P109,2024-11-01,7,Virtual Account,"Jalan Gegerkalong Hilir No. 822, Surabaya, DKI Jakarta 64913",Makanan,2,33326237
+T00813,U1118,P661,2024-05-13,6,Kartu Debit,"Gang Rawamangun No. 9, Tual, JB 65290",Fashion,5,21936978
+T00814,U8161,P504,2024-12-02,4,Kartu Kredit,"Jl. Antapani Lama No. 032, Madiun, AC 75396",Fashion,4,10313952
+T00815,U4614,P369,2024-08-09,2,Cash on Delivery (COD),"Gang Gedebage Selatan No. 4, Makassar, Kalimantan Barat 57871",Peralatan Rumah,5,6173292
+T00816,U5454,P391,2024-11-01,9,Virtual Account,"Gg. W.R. Supratman No. 0, Bengkulu, KI 11842",Fashion,2,5618853
+T00817,U3988,P239,2025-01-20,5,Transfer Bank,"Gang M.H Thamrin No. 826, Bontang, KI 35892",Fashion,5,19240430
+T00818,U5458,P817,2024-09-21,10,Kredivo,"Jl. Soekarno Hatta No. 129, Tomohon, Jawa Tengah 34064",Peralatan Rumah,3,2127000
+T00819,U3492,P150,2024-07-16,9,E-Wallet,"Gang HOS. Cokroaminoto No. 4, Batu, BB 39910",Peralatan Rumah,1,25958034
+T00820,U5622,P375,2024-12-05,3,Kredivo,"Gg. Jamika No. 626, Semarang, KS 51342",Kesehatan,2,12081045
+T00821,U2477,P254,2025-01-27,1,Kredivo,"Jl. Cempaka No. 450, Pematangsiantar, MA 97374",Peralatan Rumah,3,3522771
+T00822,U7885,P419,2024-12-31,8,QRIS,"Jl. Sadang Serang No. 06, Binjai, Sulawesi Tenggara 92743",Fashion,1,22562608
+T00823,U2314,P963,2024-09-06,3,E-Wallet,"Jalan Otto Iskandardinata No. 66, Subulussalam, Gorontalo 44856",Elektronik,4,1946454
+T00824,U9899,P581,2024-11-01,3,Kartu Debit,"Jl. Dipenogoro No. 7, Sawahlunto, SB 96417",Elektronik,4,14880300
+T00825,U1206,P224,2024-09-20,4,Cash on Delivery (COD),"Jl. Kutai No. 1, Bitung, KU 99660",Fashion,2,1324416
+T00826,U4263,P571,2024-06-29,2,Dana,"Jl. Rajiman No. 22, Palopo, Bengkulu 07236",Peralatan Rumah,4,6628398
+T00827,U6113,P430,2024-10-24,3,E-Wallet,"Gg. Medokan Ayu No. 6, Jambi, KB 51460",Makanan,5,3223791
+T00828,U5150,P592,2024-11-25,5,Kartu Debit,"Gang Setiabudhi No. 470, Palu, BB 38856",Elektronik,1,16145280
+T00829,U4568,P215,2024-12-04,4,Cash on Delivery (COD),"Jalan Rumah Sakit No. 98, Lubuklinggau, MA 16597",Elektronik,1,17926352
+T00830,U3742,P913,2024-10-21,5,Transfer Bank,"Gg. Rajiman No. 57, Tomohon, Jawa Timur 50139",Fashion,2,11344800
+T00831,U1146,P143,2024-06-15,10,Kredivo,"Jalan Kiaracondong No. 196, Bontang, NB 62614",Makanan,2,31655170
+T00832,U2466,P354,2024-10-11,3,Kredivo,"Gg. Cihampelas No. 824, Payakumbuh, Kalimantan Timur 33732",Kesehatan,5,5829600
+T00833,U6544,P877,2024-02-20,1,E-Wallet,"Jalan Erlangga No. 232, Lhokseumawe, JK 33613",Elektronik,2,4494406
+T00834,U9787,P910,2024-06-10,2,Kartu Kredit,"Gang Veteran No. 8, Padang Sidempuan, Kalimantan Barat 96454",Fashion,2,4263550
+T00835,U6189,P671,2024-08-01,6,Kredivo,"Gg. R.E Martadinata No. 12, Tanjungpinang, KU 18785",Peralatan Rumah,1,19313730
+T00836,U6868,P841,2024-03-27,3,Virtual Account,"Gg. Pasteur No. 0, Solok, Sulawesi Tengah 96120",Kesehatan,4,14815119
+T00837,U8168,P672,2024-09-20,5,Dana,"Gang Ir. H. Djuanda No. 514, Tegal, BA 62637",Fashion,2,4169700
+T00838,U4057,P656,2024-06-15,6,QRIS,"Gg. Ir. H. Djuanda No. 9, Ambon, BE 91191",Fashion,3,1088094
+T00839,U3627,P170,2024-09-08,9,Kartu Kredit,"Jl. Kutisari Selatan No. 207, Magelang, JK 69666",Fashion,3,9501129
+T00840,U5314,P654,2024-11-12,6,Kredivo,"Jalan Dipenogoro No. 52, Kota Administrasi Jakarta Pusat, SB 24633",Kesehatan,5,19377882
+T00841,U4039,P119,2024-07-01,10,QRIS,"Jalan Ahmad Dahlan No. 09, Sabang, Bengkulu 12080",Makanan,2,5359110
+T00842,U6254,P838,2024-02-17,2,Dana,"Jalan Ahmad Yani No. 5, Cirebon, KS 28351",Fashion,2,3206298
+T00843,U9586,P799,2025-01-19,8,Dana,"Gg. Jend. Sudirman No. 2, Bandar Lampung, Banten 44152",Peralatan Rumah,5,19400464
+T00844,U6285,P519,2024-10-02,6,Transfer Bank,"Jl. Cempaka No. 90, Madiun, GO 62983",Kesehatan,5,3656106
+T00845,U1717,P955,2024-09-04,3,Kartu Kredit,"Jalan Rungkut Industri No. 957, Palopo, Jambi 53523",Kesehatan,2,2844129
+T00846,U8952,P296,2024-12-29,2,E-Wallet,"Jalan Setiabudhi No. 791, Surabaya, MU 83452",Makanan,4,3872642
+T00847,U9026,P638,2024-08-07,10,Virtual Account,"Gang Bangka Raya No. 17, Pasuruan, Gorontalo 87964",Kesehatan,3,19015560
+T00848,U2161,P113,2024-08-27,4,Kredivo,"Jl. Dipatiukur No. 99, Sukabumi, MU 80046",Kesehatan,4,2236760
+T00849,U6913,P671,2024-04-29,7,QRIS,"Jalan Monginsidi No. 03, Palu, KB 51373",Kesehatan,5,22532685
+T00850,U5355,P641,2024-09-24,1,Transfer Bank,"Jalan Gardujati No. 03, Cirebon, Papua Barat 56022",Elektronik,1,1861100
+T00851,U9511,P199,2024-10-05,2,Kartu Debit,"Gang Laswi No. 4, Tanjungbalai, Aceh 66437",Makanan,4,828976
+T00852,U4104,P297,2024-05-24,9,Kartu Debit,"Gg. Gegerkalong Hilir No. 3, Subulussalam, Jambi 27128",Makanan,2,42609555
+T00853,U7802,P864,2024-06-22,2,QRIS,"Gang Jayawijaya No. 49, Bima, Jambi 31873",Fashion,4,5100558
+T00854,U2705,P270,2024-04-05,3,Dana,"Jalan Gardujati No. 062, Tual, DI Yogyakarta 69572",Fashion,5,14333574
+T00855,U6529,P773,2024-08-05,3,Dana,"Gg. Cihampelas No. 0, Makassar, Kepulauan Bangka Belitung 57306",Makanan,4,10686042
+T00856,U6772,P422,2024-07-12,9,QRIS,"Jl. K.H. Wahid Hasyim No. 3, Surabaya, Sulawesi Tengah 71398",Elektronik,4,32958306
+T00857,U6299,P723,2024-06-06,4,Dana,"Jalan Gardujati No. 1, Pematangsiantar, Bali 55021",Peralatan Rumah,4,10567804
+T00858,U5162,P468,2024-11-07,8,Kredivo,"Jalan Ahmad Yani No. 691, Tual, Banten 07964",Fashion,1,3479560
+T00859,U1567,P391,2024-11-08,10,E-Wallet,"Gg. Kendalsari No. 57, Bukittinggi, SG 32426",Makanan,2,6243170
+T00860,U5945,P106,2024-05-25,5,Kartu Debit,"Gang Cempaka No. 7, Cilegon, JT 77288",Peralatan Rumah,3,14071980
+T00861,U1355,P890,2025-01-23,5,Dana,"Gg. Rajawali Barat No. 076, Padang, Jawa Barat 36667",Makanan,5,15026490
+T00862,U3534,P196,2024-11-26,1,Kredivo,"Gang Siliwangi No. 56, Tebingtinggi, SU 33393",Elektronik,2,1211052
+T00863,U5341,P475,2025-01-20,10,Kartu Debit,"Gang H.J Maemunah No. 36, Parepare, GO 49603",Peralatan Rumah,3,25691190
+T00864,U2505,P684,2024-05-10,7,Kartu Debit,"Gang K.H. Wahid Hasyim No. 03, Salatiga, KB 92693",Kesehatan,3,28684467
+T00865,U3832,P599,2024-04-14,10,Transfer Bank,"Jalan Gegerkalong Hilir No. 59, Tangerang, GO 10005",Makanan,3,2934770
+T00866,U1612,P848,2025-01-12,10,Cash on Delivery (COD),"Jalan Jakarta No. 415, Sawahlunto, Sulawesi Tengah 52441",Kesehatan,1,28550630
+T00867,U6700,P936,2024-12-23,7,Cash on Delivery (COD),"Gg. Gedebage Selatan No. 9, Cilegon, Sulawesi Utara 31271",Kesehatan,2,3477257
+T00868,U1187,P749,2024-12-05,7,E-Wallet,"Gang Kiaracondong No. 8, Tomohon, SG 17174",Elektronik,5,19936525
+T00869,U1674,P426,2024-03-02,9,Kartu Kredit,"Gg. Sukabumi No. 416, Pematangsiantar, KR 84631",Elektronik,5,28871784
+T00870,U4617,P256,2024-04-08,1,Cash on Delivery (COD),"Gang Jend. A. Yani No. 957, Palopo, BA 95515",Fashion,5,4875587
+T00871,U9269,P192,2024-03-13,4,Cash on Delivery (COD),"Gang Jakarta No. 354, Manado, Sumatera Barat 99625",Elektronik,4,5166472
+T00872,U3165,P444,2025-01-11,2,Kredivo,"Jalan Rajiman No. 20, Tanjungpinang, MA 76504",Makanan,1,9061106
+T00873,U9980,P508,2024-12-03,5,Transfer Bank,"Jalan Gegerkalong Hilir No. 0, Langsa, PB 76604",Fashion,5,5325280
+T00874,U8118,P892,2024-11-12,3,Kartu Kredit,"Gang Tubagus Ismail No. 5, Malang, BB 74417",Fashion,5,12496440
+T00875,U4245,P599,2025-02-06,7,Kartu Debit,"Jl. Gegerkalong Hilir No. 312, Batam, Jawa Tengah 11005",Makanan,5,2054339
+T00876,U9589,P352,2025-01-18,4,Transfer Bank,"Gang Otto Iskandardinata No. 910, Dumai, DKI Jakarta 11063",Elektronik,4,4746272
+T00877,U6298,P801,2024-05-07,10,Transfer Bank,"Gang Medokan Ayu No. 3, Dumai, Sumatera Barat 74907",Kesehatan,4,26962110
+T00878,U7939,P474,2024-04-27,6,Kartu Debit,"Gg. Pasirkoja No. 182, Bogor, Sulawesi Tenggara 59690",Elektronik,3,1518366
+T00879,U5994,P273,2024-08-31,6,Kredivo,"Jl. Pasirkoja No. 893, Tanjungpinang, DI Yogyakarta 25326",Makanan,2,27586638
+T00880,U8216,P145,2024-10-19,4,Kartu Debit,"Jalan W.R. Supratman No. 53, Sungai Penuh, BB 21017",Elektronik,2,5714808
+T00881,U2405,P215,2024-06-28,1,Kartu Debit,"Gg. Antapani Lama No. 1, Semarang, Papua 94575",Makanan,2,4481588
+T00882,U5713,P114,2024-11-30,6,Transfer Bank,"Gang Rajiman No. 83, Semarang, JI 56775",Elektronik,4,3044382
+T00883,U8719,P123,2025-02-08,6,Kartu Debit,"Gang Jakarta No. 660, Lubuklinggau, PB 65062",Makanan,2,10557654
+T00884,U9952,P635,2024-04-14,5,Dana,"Jl. Suniaraja No. 24, Dumai, Bali 62484",Fashion,5,4289055
+T00885,U3315,P811,2024-05-14,1,Cash on Delivery (COD),"Gang Bangka Raya No. 705, Batam, Maluku Utara 94238",Makanan,5,4931796
+T00886,U1712,P361,2024-08-25,3,E-Wallet,"Jalan Rajawali Timur No. 2, Sorong, Maluku 91928",Elektronik,2,6977019
+T00887,U1869,P576,2024-06-04,1,Transfer Bank,"Gg. Ahmad Yani No. 10, Medan, SR 35357",Fashion,3,4019373
+T00888,U6901,P985,2024-12-17,2,E-Wallet,"Jalan Gegerkalong Hilir No. 93, Kota Administrasi Jakarta Barat, SB 05816",Elektronik,4,3978364
+T00889,U7237,P620,2024-12-03,2,QRIS,"Gg. Rawamangun No. 4, Palopo, Papua Barat 42507",Fashion,5,3124308
+T00890,U9709,P190,2024-05-21,3,Kartu Debit,"Gang Wonoayu No. 82, Lubuklinggau, Sumatera Barat 98339",Makanan,4,12666810
+T00891,U1352,P140,2024-10-07,4,Dana,"Jl. Ahmad Dahlan No. 4, Metro, Sulawesi Selatan 44324",Elektronik,3,9035420
+T00892,U9027,P502,2024-02-25,3,E-Wallet,"Gg. Rawamangun No. 768, Serang, Sulawesi Tengah 14743",Elektronik,3,14830335
+T00893,U6822,P740,2024-11-16,5,Kartu Debit,"Jl. Raya Ujungberung No. 105, Medan, JT 68065",Makanan,3,23285940
+T00894,U2015,P740,2024-07-18,5,Cash on Delivery (COD),"Gg. Raya Ujungberung No. 9, Pekanbaru, Bengkulu 71122",Kesehatan,5,23285940
+T00895,U5590,P330,2024-03-26,3,QRIS,"Gg. Setiabudhi No. 16, Tomohon, DI Yogyakarta 68086",Fashion,2,14089890
+T00896,U2438,P847,2024-10-22,7,Dana,"Jl. Cihampelas No. 143, Banjarmasin, BA 37003",Makanan,2,24855915
+T00897,U4938,P686,2024-12-06,3,Cash on Delivery (COD),"Gg. Raya Ujungberung No. 60, Payakumbuh, Bali 81039",Elektronik,5,10508157
+T00898,U6395,P559,2024-02-29,9,Kartu Kredit,"Jalan Sentot Alibasa No. 1, Pekanbaru, Jawa Timur 32809",Peralatan Rumah,2,35377245
+T00899,U9869,P800,2024-06-04,4,Kartu Kredit,"Jalan Kiaracondong No. 4, Dumai, MU 61470",Elektronik,5,4738320
+T00900,U8046,P888,2024-08-07,3,Kartu Kredit,"Jl. Cihampelas No. 13, Tual, MA 94570",Elektronik,1,12153588
+T00901,U9732,P836,2024-10-24,2,Kartu Kredit,"Jl. Rajawali Timur No. 325, Payakumbuh, Papua Barat 76927",Elektronik,2,594648
+T00902,U6221,P523,2024-08-20,7,Virtual Account,"Jl. Abdul Muis No. 900, Ambon, MA 69210",Fashion,3,15662717
+T00903,U3489,P897,2024-07-07,4,Transfer Bank,"Gang Ciumbuleuit No. 60, Yogyakarta, Banten 42473",Peralatan Rumah,2,18004140
+T00904,U1429,P880,2024-04-02,10,Virtual Account,"Jl. Gardujati No. 379, Kota Administrasi Jakarta Timur, Bali 12316",Makanan,5,27692180
+T00905,U4783,P710,2024-11-05,4,Kartu Debit,"Gg. Bangka Raya No. 62, Samarinda, BT 44734",Kesehatan,3,585236
+T00906,U2302,P804,2024-02-25,8,Kartu Kredit,"Gg. Abdul Muis No. 0, Sabang, SB 04519",Makanan,5,1255592
+T00907,U8680,P829,2024-07-07,6,Kartu Kredit,"Gg. Kapten Muslihat No. 88, Madiun, NT 29657",Fashion,4,23402124
+T00908,U8763,P240,2024-06-29,3,Kartu Debit,"Gang Siliwangi No. 19, Bogor, NB 77820",Peralatan Rumah,1,11955540
+T00909,U7694,P882,2024-06-28,1,Virtual Account,"Jl. Laswi No. 6, Padangpanjang, Jambi 81904",Fashion,2,1751491
+T00910,U4351,P167,2025-02-12,3,Kredivo,"Gang Gardujati No. 58, Pematangsiantar, Riau 95613",Makanan,4,7300791
+T00911,U6323,P987,2024-10-21,8,Kartu Debit,"Jl. S. Parman No. 721, Kendari, RI 38130",Fashion,4,33986464
+T00912,U1685,P722,2024-02-22,7,QRIS,"Jl. K.H. Wahid Hasyim No. 1, Kota Administrasi Jakarta Pusat, Sulawesi Tengah 65609",Fashion,5,33934131
+T00913,U9784,P637,2024-06-11,1,Dana,"Jalan Rajawali Barat No. 99, Subulussalam, BT 07550",Kesehatan,4,3882758
+T00914,U1694,P998,2024-05-25,4,Dana,"Gg. Kutai No. 5, Bandar Lampung, PB 71748",Makanan,4,1517064
+T00915,U7347,P628,2024-03-22,1,Kartu Debit,"Gang Pelajar Pejuang No. 30, Singkawang, JA 79541",Elektronik,4,4746353
+T00916,U7521,P411,2024-03-19,5,Kredivo,"Gang Sadang Serang No. 970, Lhokseumawe, Sulawesi Tengah 96102",Peralatan Rumah,4,12598855
+T00917,U1893,P806,2024-10-03,9,Kartu Kredit,"Jl. Rawamangun No. 96, Kota Administrasi Jakarta Pusat, Jambi 27420",Fashion,4,27067329
+T00918,U2481,P839,2024-06-07,9,Transfer Bank,"Jl. Ciumbuleuit No. 773, Meulaboh, KB 04235",Peralatan Rumah,5,41702355
+T00919,U3216,P502,2025-01-17,7,QRIS,"Jalan Dipenogoro No. 229, Palembang, SB 60858",Fashion,1,34604115
+T00920,U3930,P564,2024-03-28,10,Kartu Debit,"Gg. Bangka Raya No. 6, Batam, JK 57683",Fashion,1,46749350
+T00921,U5097,P431,2025-02-02,3,Transfer Bank,"Jl. Dipatiukur No. 2, Palopo, Papua 71296",Kesehatan,1,11459481
+T00922,U6946,P187,2024-03-31,9,Cash on Delivery (COD),"Jl. Rajawali Barat No. 605, Pekanbaru, Aceh 84980",Makanan,5,6643656
+T00923,U3619,P487,2024-06-12,9,Cash on Delivery (COD),"Gg. Lembong No. 777, Bengkulu, Kalimantan Barat 88122",Kesehatan,2,25756227
+T00924,U3459,P266,2025-01-14,3,Kartu Kredit,"Jalan Ahmad Yani No. 365, Kota Administrasi Jakarta Selatan, Sulawesi Barat 60560",Kesehatan,4,1946901
+T00925,U6047,P416,2024-04-30,8,Virtual Account,"Jalan Gegerkalong Hilir No. 98, Sukabumi, JI 98471",Peralatan Rumah,1,1161720
+T00926,U3155,P307,2024-08-02,1,Virtual Account,"Jl. Ir. H. Djuanda No. 0, Kota Administrasi Jakarta Utara, Riau 75489",Kesehatan,4,1055613
+T00927,U9153,P975,2024-06-22,8,Dana,"Gang Kutai No. 8, Parepare, NB 75889",Kesehatan,5,30827848
+T00928,U9084,P343,2024-10-18,4,Kredivo,"Gang Peta No. 8, Lubuklinggau, Maluku Utara 93543",Fashion,4,14287004
+T00929,U8239,P181,2025-01-01,10,E-Wallet,"Gang Kutisari Selatan No. 39, Yogyakarta, LA 58853",Peralatan Rumah,5,23829800
+T00930,U4401,P150,2024-12-21,3,Kartu Kredit,"Gg. KH Amin Jasuta No. 395, Sukabumi, SB 36749",Kesehatan,3,8652678
+T00931,U1601,P248,2024-08-12,1,Virtual Account,"Jalan Pasir Koja No. 686, Batam, KS 77894",Elektronik,1,461304
+T00932,U2784,P526,2024-09-01,3,Kartu Kredit,"Jalan W.R. Supratman No. 7, Parepare, SN 51221",Elektronik,5,14551962
+T00933,U3906,P566,2024-07-05,10,QRIS,"Jl. Siliwangi No. 56, Singkawang, KS 52037",Kesehatan,1,48053850
+T00934,U5903,P430,2024-12-07,6,Cash on Delivery (COD),"Gg. Dr. Djunjunan No. 8, Blitar, Gorontalo 30900",Kesehatan,4,6447582
+T00935,U2063,P399,2024-03-30,8,Kartu Kredit,"Gang Moch. Toha No. 399, Purwokerto, NT 20895",Kesehatan,3,22492808
+T00936,U9635,P523,2024-12-08,9,Kartu Debit,"Jalan R.E Martadinata No. 0, Bekasi, Kepulauan Riau 11363",Peralatan Rumah,5,20137779
+T00937,U1953,P211,2024-05-19,10,Dana,"Jl. Pelajar Pejuang No. 034, Sawahlunto, PB 33116",Kesehatan,4,4215870
+T00938,U5705,P537,2024-11-18,10,QRIS,"Gg. Kendalsari No. 08, Gorontalo, SB 85507",Elektronik,5,48746460
+T00939,U6797,P232,2024-08-31,10,Kredivo,"Gg. Ir. H. Djuanda No. 1, Cimahi, RI 35564",Makanan,4,41814260
+T00940,U3947,P724,2024-05-22,4,Virtual Account,"Gang Astana Anyar No. 9, Sukabumi, YO 06955",Peralatan Rumah,1,4166372
+T00941,U1392,P576,2024-07-12,2,Kartu Debit,"Gang W.R. Supratman No. 645, Kota Administrasi Jakarta Timur, Papua 72239",Makanan,4,8038746
+T00942,U7783,P146,2024-10-23,6,QRIS,"Gang Ir. H. Djuanda No. 4, Tidore Kepulauan, BT 48149",Makanan,2,5191830
+T00943,U1185,P755,2024-09-03,4,Virtual Account,"Gang Cikapayang No. 121, Kota Administrasi Jakarta Pusat, DKI Jakarta 72426",Elektronik,1,17586336
+T00944,U6042,P407,2024-06-03,9,Dana,"Gang Jend. A. Yani No. 1, Bekasi, Bengkulu 48762",Elektronik,1,13672107
+T00945,U2865,P802,2024-05-17,6,QRIS,"Jl. Dipenogoro No. 28, Pangkalpinang, Papua 28230",Fashion,5,1765524
+T00946,U3877,P298,2024-06-21,6,QRIS,"Jl. Suniaraja No. 207, Blitar, Kalimantan Utara 94737",Fashion,4,5474316
+T00947,U1582,P761,2024-04-24,3,Kredivo,"Jl. Cikutra Timur No. 20, Palu, Sumatera Utara 68868",Peralatan Rumah,4,3233508
+T00948,U9797,P443,2024-08-15,8,Cash on Delivery (COD),"Gang Jend. A. Yani No. 7, Bandung, KT 95419",Kesehatan,5,33545896
+T00949,U5904,P678,2025-02-01,6,Dana,"Gang Soekarno Hatta No. 573, Jambi, SN 79246",Makanan,1,21098454
+T00950,U4412,P691,2024-05-20,6,QRIS,"Gg. Pasir Koja No. 67, Medan, Kalimantan Tengah 26032",Kesehatan,2,14865372
+T00951,U5595,P960,2025-01-29,1,QRIS,"Jalan Sentot Alibasa No. 66, Serang, Lampung 88707",Fashion,5,1442252
+T00952,U7382,P291,2024-03-13,10,Transfer Bank,"Gg. S. Parman No. 012, Banjarmasin, BA 85076",Elektronik,3,3153160
+T00953,U5448,P523,2024-06-24,2,Kredivo,"Gang Soekarno Hatta No. 891, Tual, SB 80898",Peralatan Rumah,3,4475062
+T00954,U8404,P949,2024-03-13,5,Kartu Debit,"Gang KH Amin Jasuta No. 22, Bekasi, Papua Barat 63004",Makanan,3,7590565
+T00955,U2838,P483,2024-02-20,1,Kartu Debit,"Jalan Veteran No. 689, Gorontalo, Aceh 20471",Kesehatan,4,723185
+T00956,U9290,P125,2024-05-11,8,Dana,"Jalan Ciwastra No. 7, Singkawang, PA 49885",Peralatan Rumah,2,7278328
+T00957,U6572,P595,2024-10-18,9,Virtual Account,"Jalan Merdeka No. 674, Pekanbaru, MA 60944",Elektronik,2,7867737
+T00958,U9456,P792,2024-03-28,3,Kartu Debit,"Jl. Rawamangun No. 188, Padang Sidempuan, Riau 95413",Kesehatan,4,11447640
+T00959,U7350,P830,2024-04-19,9,Transfer Bank,"Jalan Bangka Raya No. 62, Parepare, BA 51437",Kesehatan,3,3774150
+T00960,U2426,P441,2025-01-22,8,E-Wallet,"Gg. Bangka Raya No. 439, Makassar, JI 96111",Kesehatan,5,21370224
+T00961,U1368,P691,2024-03-18,5,Kartu Debit,"Gang Dipatiukur No. 2, Ambon, Sulawesi Utara 02455",Elektronik,2,12387810
+T00962,U4154,P393,2024-10-31,5,Dana,"Gg. Rumah Sakit No. 091, Singkawang, Aceh 26714",Elektronik,4,20259640
+T00963,U2927,P379,2024-10-03,3,Kartu Kredit,"Jalan Cikutra Timur No. 94, Sukabumi, SS 79340",Elektronik,1,533946
+T00964,U9422,P204,2024-07-17,4,Dana,"Gang Setiabudhi No. 4, Sungai Penuh, RI 34533",Elektronik,5,15260692
+T00965,U6218,P377,2024-08-13,3,Virtual Account,"Gg. Bangka Raya No. 91, Surakarta, Sulawesi Barat 55355",Makanan,2,4460274
+T00966,U2167,P418,2024-04-13,10,QRIS,"Jl. Kutai No. 217, Bukittinggi, DI Yogyakarta 55937",Makanan,4,8318950
+T00967,U1831,P233,2024-08-03,1,Kredivo,"Jalan Waringin No. 0, Cilegon, RI 51004",Kesehatan,1,3267867
+T00968,U1881,P188,2024-07-16,7,Cash on Delivery (COD),"Gang Raya Ujungberung No. 25, Surabaya, Maluku Utara 02461",Peralatan Rumah,5,26529615
+T00969,U6826,P419,2024-08-23,6,Kartu Debit,"Jl. Moch. Toha No. 9, Kota Administrasi Jakarta Utara, KS 60055",Makanan,1,16921956
+T00970,U8629,P681,2024-12-22,3,Transfer Bank,"Jl. Ronggowarsito No. 3, Bontang, NB 86899",Fashion,1,11615151
+T00971,U6085,P800,2025-02-09,8,Kredivo,"Gg. Kutai No. 4, Banjar, Lampung 06917",Peralatan Rumah,2,9476640
+T00972,U3354,P981,2025-01-03,10,Virtual Account,"Gg. Kutai No. 744, Kediri, BB 40830",Elektronik,4,12179870
+T00973,U4004,P816,2024-05-12,6,QRIS,"Jalan Bangka Raya No. 148, Banda Aceh, SS 90793",Fashion,4,25153524
+T00974,U1495,P166,2024-09-10,8,Transfer Bank,"Gg. Stasiun Wonokromo No. 5, Probolinggo, KS 61537",Elektronik,4,31353400
+T00975,U3798,P389,2024-02-24,6,Kartu Kredit,"Jalan Kapten Muslihat No. 46, Pagaralam, Kalimantan Tengah 51448",Makanan,1,20718840
+T00976,U2752,P433,2024-11-10,9,Transfer Bank,"Jl. Abdul Muis No. 142, Tual, Sulawesi Tengah 18878",Elektronik,5,9048240
+T00977,U8552,P510,2024-04-03,10,Cash on Delivery (COD),"Gg. Dipatiukur No. 26, Probolinggo, BB 91122",Peralatan Rumah,5,5320340
+T00978,U4992,P661,2024-06-27,3,Kredivo,"Gang Astana Anyar No. 66, Pekanbaru, Riau 23979",Fashion,1,10968489
+T00979,U6582,P313,2024-12-02,10,Cash on Delivery (COD),"Gang Sukajadi No. 53, Bandung, Sulawesi Tengah 09505",Fashion,5,29205880
+T00980,U9921,P810,2024-10-24,4,Kartu Kredit,"Gg. Rawamangun No. 219, Semarang, JB 78851",Kesehatan,5,13876764
+T00981,U8972,P217,2024-10-15,10,Kredivo,"Gg. Jayawijaya No. 40, Banjarmasin, Maluku 46245",Elektronik,5,8691800
+T00982,U8294,P280,2025-01-11,5,Cash on Delivery (COD),"Jalan Yos Sudarso No. 46, Bandar Lampung, LA 21289",Kesehatan,5,22646850
+T00983,U2781,P801,2024-10-05,10,Cash on Delivery (COD),"Jl. Pasirkoja No. 51, Samarinda, Kalimantan Tengah 30448",Elektronik,4,26962110
+T00984,U2007,P192,2024-12-05,4,Kartu Kredit,"Jalan Surapati No. 461, Kota Administrasi Jakarta Timur, Bengkulu 11901",Makanan,1,5166472
+T00985,U3403,P776,2025-01-27,3,Kredivo,"Gang Surapati No. 1, Cilegon, KU 52291",Makanan,3,6137742
+T00986,U7389,P730,2024-10-17,10,Kredivo,"Jl. Jend. A. Yani No. 8, Padang Sidempuan, Aceh 93783",Peralatan Rumah,2,18590430
+T00987,U6187,P406,2024-03-10,10,Virtual Account,"Jalan Ahmad Dahlan No. 52, Semarang, SR 43916",Fashion,3,6238780
+T00988,U2462,P696,2024-05-25,1,Dana,"Jalan K.H. Wahid Hasyim No. 005, Kotamobagu, SU 91624",Fashion,2,590830
+T00989,U5819,P163,2024-10-24,6,Dana,"Gg. Kutai No. 429, Sukabumi, JA 20330",Kesehatan,1,28487244
+T00990,U6885,P212,2024-11-25,5,E-Wallet,"Gg. S. Parman No. 40, Ternate, KU 21462",Peralatan Rumah,4,16786810
+T00991,U6212,P828,2024-03-15,7,Cash on Delivery (COD),"Gg. Gardujati No. 0, Tasikmalaya, JA 61537",Fashion,4,9763579
+T00992,U9931,P316,2024-04-12,3,Kredivo,"Gang Tubagus Ismail No. 84, Surabaya, Kalimantan Selatan 36533",Peralatan Rumah,2,14127639
+T00993,U7301,P963,2024-08-24,6,Cash on Delivery (COD),"Jalan Pasir Koja No. 672, Banjarmasin, SG 36142",Peralatan Rumah,3,3892908
+T00994,U3056,P237,2024-06-05,1,Transfer Bank,"Jalan Waringin No. 1, Malang, MA 73476",Kesehatan,2,2820446
+T00995,U8974,P773,2024-05-30,7,Kartu Kredit,"Gg. HOS. Cokroaminoto No. 376, Purwokerto, Sumatera Selatan 14584",Kesehatan,2,24934098
+T00996,U7813,P980,2024-11-09,8,Cash on Delivery (COD),"Gang Asia Afrika No. 913, Kota Administrasi Jakarta Pusat, Kalimantan Utara 78020",Makanan,2,30893888
+T00997,U9346,P534,2024-06-22,9,Kredivo,"Gg. Kebonjati No. 146, Tanjungpinang, KR 69995",Fashion,3,35226036
+T00998,U4698,P290,2024-03-24,7,E-Wallet,"Jl. Raya Ujungberung No. 557, Prabumulih, NB 36801",Makanan,4,10148383
+T00999,U4878,P829,2024-03-27,9,Virtual Account,"Jalan Laswi No. 68, Bima, Sulawesi Tengah 33351",Fashion,5,35103186
+T01000,U7012,P134,2024-03-01,1,Kredivo,"Jalan Pelajar Pejuang No. 9, Gorontalo, JK 39114",Elektronik,1,4917647
