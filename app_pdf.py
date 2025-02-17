@@ -5,6 +5,10 @@ from loaders import load_and_split_document, create_or_load_vectordb
 from langchain.chains import RetrievalQA
 from langchain_groq import ChatGroq
 
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 # Load environment variables
 groq_api_key = os.environ.get("GROQ_API_KEY")
 
