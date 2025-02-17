@@ -4,6 +4,7 @@ from langchain_groq import ChatGroq
 from config import LLM_MODEL
 import os
 
+groq_api_key = st.secrets["GROQ_API_KEY"]
 groq_api_key = os.environ.get("GROQ_API_KEY")
 
 def get_answer_csv(file: TextIO, query: str) -> str:
