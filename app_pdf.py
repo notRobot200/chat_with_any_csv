@@ -9,6 +9,8 @@ __import__('pysqlite3')
 import sys
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
+import sqlite3
+
 # Load environment variables
 groq_api_key = os.environ.get("GROQ_API_KEY")
 
