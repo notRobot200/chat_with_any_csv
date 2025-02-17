@@ -6,3 +6,4 @@ langchain
 chromadb
 langchain-groq
 langchain-community
+langchain_experimental
