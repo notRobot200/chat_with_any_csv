@@ -5,6 +5,12 @@ from langchain_community.embeddings.ollama import OllamaEmbeddings
 from langchain_chroma import Chroma
 import streamlit as st
 
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
+import sqlite3
+
 def load_and_split_document(pdf_file):
     loader = PyPDFLoader(pdf_file)
     with st.spinner("Loading document..."):
