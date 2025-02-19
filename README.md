@@ -16,15 +16,15 @@ chat_with_any_csv is an interactive tool that allows users to chat with CSV file
 
 - ⚡ Fast & Efficient – Process large CSV files quickly and extract meaningful insights.
 
-## 📚 Model Used
+## 📚 Model Used:
 
 This project leverages gemma2-9b-it, a powerful model used for the create CSV agent function from LangChain.
 
-## 📝 License
+## 📝 License:
 
 This project is licensed under the MIT License.
 
-## 📬 Contact
+## 📬 Contact:
 
 For any inquiries, reach out to:
 📧 Email: mhmmdadammajid@gmail.com
