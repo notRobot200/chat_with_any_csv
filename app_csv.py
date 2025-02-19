@@ -3,6 +3,11 @@ import streamlit as st
 import os
 from utils import get_answer_csv
 
+st.set_page_config(
+    page_title="Chat with your CSV",
+    page_icon="📄"  # CSV icon
+)
+
 st.header("Chat with any CSV")
 
 # Choose file input method
