@@ -26,7 +26,7 @@ def get_answer_csv(file: TextIO, query: str) -> str:
     )
 
     # Create an agent using the LLM model and the CSV file
-    agent = create_csv_agent(llm, file, verbose=True, allow_dangerous_code=True)
+    agent = create_csv_agent(llm, file, verbose=True, allow_dangerous_code=True, handle_parsing_errors=True)
 
     #query = "whats the square root of the average age?"
     answer = agent.run(query)
